@@ -1,0 +1,121 @@
+services:
+  # Tracker BitTorrent
+  tracker:
+    image: chihchun/opentracker:latest
+    # container_name: libertas-tracker
+    ports:
+      - "6969:6969/udp"
+      - "6969:6969/tcp"
+    volumes:
+      - ./tracker/config:/etc/opentracker
+    networks:
+      - p2p-network
+    restart: unless-stopped
+
+  # DHT Node
+  dht-node:
+    build: ./dht-node
+    # container_name: libertas-dht
+    ports:
+      - "6881:6881"
+      - "6881:6881/udp"
+    volumes:
+      - dht-data:/data
+    environment:
+      - NODE_ID=${DHT_NODE_ID}
+      - BOOTSTRAP_NODES=router.bittorrent.com:6881,dht.transmissionbt.com:6881
+    networks:
+      - p2p-network
+    restart: unless-stopped
+
+  # WebTorrent Tracker (WebRTC)
+  wrtc-tracker:
+    image: webtorrent/webtorrent-tracker:latest
+    # container_name: libertas-wrtc-tracker
+    ports:
+      - "8000:8000"
+      - "8000:8000/udp"
+    environment:
+      - PORT=8000
+    networks:
+      - p2p-network
+    restart: unless-stopped
+
+  # Redis para coordinación P2P
+  p2p-redis:
+    image: redis:7-alpine
+    # container_name: libertas-p2p-redis
+    command: redis-server --appendonly yes --requirepass ${REDIS_PASSWORD}
+    volumes:
+      - p2p-redis-data:/data
+    networks:
+      - p2p-network
+    restart: unless-stopped
+
+  # Servidor de Señalización WebRTC
+  signaling-server:
+    build: ./signaling
+    #container_name: libertas-signaling
+    ports:
+      - "9000:9000"
+    environment:
+      - REDIS_URL=redis://p2p-redis:6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+    networks:
+      - p2p-network
+    depends_on:
+      - p2p-redis
+    restart: unless-stopped
+
+  # Servidor P2P Principal
+  p2p-server:
+    build: ./p2p-server
+    #container_name: libertas-p2p-server
+    ports:
+      - "6882:6882"
+      - "6882:6882/udp"
+    volumes:
+      - ./p2p-server/config:/app/config
+      - p2p-storage:/data
+    environment:
+      - TRACKER_URL=http://tracker:6969/announce
+      - DHT_NODE_URL=dht-node:6881
+      - SIGNALING_URL=ws://signaling-server:9000
+      - REDIS_URL=redis://p2p-redis:6379
+      - REDIS_PASSWORD=${REDIS_PASSWORD}
+    networks:
+      - p2p-network
+      - libertas-internal
+    depends_on:
+      - tracker
+      - dht-node
+      - signaling-server
+      - p2p-redis
+    restart: unless-stopped
+
+  # Cliente Web P2P
+  p2p-web:
+    build: ./p2p-web
+    #container_name: libertas-p2p-web
+    ports:
+      - "8081:80"
+    volumes:
+      - ./p2p-web/dist:/usr/share/nginx/html
+      - ./p2p-web/nginx.conf:/etc/nginx/nginx.conf
+    networks:
+      - p2p-network
+      - libertas-internal
+    depends_on:
+      - p2p-server
+    restart: unless-stopped
+
+volumes:
+  dht-data:
+  p2p-redis-data:
+  p2p-storage:
+
+networks:
+  p2p-network:
+    driver: bridge
+  libertas-internal:
+    external: true

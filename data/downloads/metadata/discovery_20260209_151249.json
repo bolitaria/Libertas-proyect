@@ -1,0 +1,35 @@
+{
+  "discovery_time": "2026-02-09T15:12:49.338767",
+  "total_datasets": 1,
+  "total_files": 49,
+  "session_stats": {
+    "requests_made": 3,
+    "successful_requests": 1,
+    "failed_requests": 0,
+    "403_errors": 2,
+    "session_refreshes": 0,
+    "start_time": "2026-02-09T15:12:36.863491"
+  },
+  "datasets": {
+    "5": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00008409.pdf",
+          "type": "pdf",
+          "size": 535668
+        },
+        {
+          "filename": "EFTA00008410.pdf",
+          "type": "pdf",
+          "size": 583036
+        },
+        {
+          "filename": "EFTA00008411.pdf",
+          "type": "pdf",
+          "size": 634771
+        }
+      ]
+    }
+  }
+}

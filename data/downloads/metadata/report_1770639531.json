@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-09T13:18:51.250168",
+  "duration": 27.35,
+  "stats": {
+    "total": 425,
+    "success": 211,
+    "failed": 214,
+    "skipped": 0,
+    "bytes": 11282803
+  },
+  "directory": "/home/bolitaria/libertas-project/data/downloads/raw"
+}

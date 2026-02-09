@@ -1,0 +1,11 @@
+2026-02-09 13:58:48,204 - __main__ - ERROR - ❌ Error fatal: 'CorrectEpsteinFetcher' object has no attribute 'connection_pool_size'
+Traceback (most recent call last):
+  File "/home/bolitaria/libertas-project/fetcher/main_v3.py", line 656, in main
+    fetcher = CorrectEpsteinFetcher()
+              ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/bolitaria/libertas-project/fetcher/main_v3.py", line 66, in __init__
+    self._init_session()
+  File "/home/bolitaria/libertas-project/fetcher/main_v3.py", line 96, in _init_session
+    pool_connections=self.connection_pool_size,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CorrectEpsteinFetcher' object has no attribute 'connection_pool_size'

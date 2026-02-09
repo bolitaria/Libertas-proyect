@@ -1,0 +1,94 @@
+{
+  "operation_id": "a0e8a2e9",
+  "operation_type": "fetch_download_exhaustive",
+  "datasets": [
+    5,
+    6
+  ],
+  "start_time": "2026-02-09T02:40:33.422515",
+  "end_time": "2026-02-09T02:41:43.179043",
+  "duration_seconds": 69.756528,
+  "status": "completed",
+  "phase": "completion",
+  "metrics": {
+    "discovery": {
+      "start_time": "2026-02-09T02:40:33.422750",
+      "datasets_requested": [
+        5,
+        6
+      ],
+      "datasets_explored": 2,
+      "files_discovered": 62,
+      "pages_processed": 2,
+      "errors_encountered": 2,
+      "datasets_stats": {
+        "5": {
+          "files_found": 49,
+          "pages_processed": 1,
+          "duration_seconds": 0.49
+        },
+        "6": {
+          "files_found": 13,
+          "pages_processed": 1,
+          "duration_seconds": 0.49
+        }
+      },
+      "end_time": "2026-02-09T02:40:35.407600"
+    },
+    "filtering": {
+      "total": 62,
+      "new": 62,
+      "cached": 0
+    },
+    "selection": {
+      "order": "firsts",
+      "limit": 100,
+      "selected": 62
+    },
+    "results": {
+      "success": 62,
+      "failed": 0,
+      "skipped": 0,
+      "invalid": 0,
+      "total_size": 82129603,
+      "start": 1770604835.4095104,
+      "datasets_created": [
+        5,
+        6
+      ],
+      "downloads_by_dataset": {
+        "5": {
+          "success": 49,
+          "failed": 0,
+          "skipped": 0,
+          "invalid": 0
+        },
+        "6": {
+          "success": 13,
+          "failed": 0,
+          "skipped": 0,
+          "invalid": 0
+        }
+      },
+      "end": 1770604903.179039,
+      "duration": 67.76952862739563
+    }
+  },
+  "phase_metrics": {},
+  "errors": [],
+  "warnings": [
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 5 page 2",
+      "timestamp": "2026-02-09T02:40:33.912554",
+      "phase": "discovery"
+    },
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 6 page 2",
+      "timestamp": "2026-02-09T02:40:35.407470",
+      "phase": "discovery"
+    }
+  ],
+  "recovery_actions": []
+}

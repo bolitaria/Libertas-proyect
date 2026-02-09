@@ -1,0 +1,77 @@
+model:
+  name: "epstein_document_classifier"
+  version: "1.0.0"
+  
+  categories:
+    - name: "legal_filing"
+      description: "Documentos legales, demandas, mociones"
+      keywords: ["complaint", "motion", "filing", "affidavit", "order"]
+    
+    - name: "court_transcript"
+      description: "Transcripciones de audiencias judiciales"
+      keywords: ["transcript", "hearing", "testimony", "proceeding"]
+    
+    - name: "evidence_document"
+      description: "Evidencia presentada en el caso"
+      keywords: ["exhibit", "evidence", "photo", "document", "record"]
+    
+    - name: "correspondence"
+      description: "Correspondencia entre partes"
+      keywords: ["letter", "email", "memorandum", "communication"]
+    
+    - name: "financial_record"
+      description: "Registros financieros"
+      keywords: ["payment", "invoice", "receipt", "bank", "financial"]
+    
+    - name: "press_release"
+      description: "Comunicados de prensa"
+      keywords: ["press", "release", "statement", "announcement"]
+  
+  features:
+    text_features:
+      - "named_entities"
+      - "dates"
+      - "monetary_amounts"
+      - "legal_terms"
+      - "person_names"
+      - "locations"
+    
+    metadata_features:
+      - "document_type"
+      - "page_count"
+      - "creation_date"
+      - "author"
+  
+  models:
+    primary:
+      type: "bert"
+      model_name: "bert-base-uncased"
+      fine_tuned_path: "/app/models/bert_finetuned"
+    
+    fallback:
+      type: "tfidf_svm"
+      vectorizer_path: "/app/models/tfidf_vectorizer.pkl"
+      classifier_path: "/app/models/svm_classifier.pkl"
+  
+  training:
+    train_size: 0.8
+    test_size: 0.2
+    validation_size: 0.1
+    epochs: 10
+    batch_size: 16
+    learning_rate: 2e-5
+  
+  inference:
+    batch_size: 32
+    confidence_threshold: 0.7
+    max_document_length: 512
+  
+  paths:
+    data_dir: "/data/processed"
+    models_dir: "/app/models"
+    cache_dir: "/data/cache"
+    output_dir: "/data/classified"
+  
+  logging:
+    level: "INFO"
+    file: "/var/log/classifier.log"

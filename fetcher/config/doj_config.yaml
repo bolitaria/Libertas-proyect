@@ -1,0 +1,65 @@
+# Configuración para descarga de documentos Epstein del DOJ
+sources:
+  - name: "DOJ Press Releases - Epstein"
+    type: "doj_api"
+    base_url: "https://www.justice.gov/api/v1/press_releases"
+    search_params:
+      query: "Epstein"
+      field_pr_components: "Press Release"
+      sort: "date"
+      page: 0
+    filters:
+      date_range:
+        start: "2015-01-01"
+        end: "2023-12-31"
+      must_contain: ["Epstein", "Jeffrey", "Ghislaine", "Maxwell", "SDNY"]
+    
+  - name: "DOJ Press Releases - Maxwell"
+    type: "doj_api"
+    base_url: "https://www.justice.gov/api/v1/press_releases"
+    search_params:
+      query: "Ghislaine Maxwell"
+      field_pr_components: "Press Release"
+      sort: "date"
+    filters:
+      date_range:
+        start: "2015-01-01"
+        end: "2023-12-31"
+
+  - name: "Court Listener - Epstein Cases"
+    type: "courtlistener"
+    base_url: "https://www.courtlistener.com/api/rest/v3"
+    search_params:
+      q: "Epstein"
+      case_name: "Epstein"
+      court: "sdny"
+
+download:
+  output_dir: "/data/downloads"
+  max_file_size_mb: 50
+  timeout_seconds: 300
+  retry_attempts: 3
+  save_metadata: true
+  save_raw_html: false
+
+rate_limiting:
+  requests_per_minute: 30
+  delay_between_requests: 2.0
+  max_concurrent_downloads: 3
+
+processing:
+  extract_text: true
+  extract_metadata: true
+  generate_checksum: true
+  categorize_documents: true
+
+categories:
+  epstein_related:
+    - "indictment"
+    - "plea_agreement"
+    - "sentencing"
+    - "court_order"
+    - "victim_statements"
+    - "financial_records"
+    - "correspondence"
+    - "evidence"

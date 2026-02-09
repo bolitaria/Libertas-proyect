@@ -1,0 +1,105 @@
+2026-02-09 03:17:02,476 - __main__ - INFO - ✅ Sesión HTTP inicializada
+2026-02-09 03:17:02,476 - __main__ - INFO - ✅ Fetcher inicializado
+2026-02-09 03:17:02,476 - __main__ - INFO - 🚀 [0d20f0ce] Iniciando operación (DATASETS ILIMITADOS)
+2026-02-09 03:17:02,477 - __main__ - INFO - 📡 Auto-descubriendo TODOS los datasets...
+2026-02-09 03:17:02,477 - __main__ - INFO - 🔍 Descubriendo TODOS los datasets disponibles (sin límite)...
+2026-02-09 03:17:02,671 - __main__ - INFO -    ✅ Dataset 1 encontrado
+2026-02-09 03:17:02,941 - __main__ - INFO -    ✅ Dataset 2 encontrado
+2026-02-09 03:17:03,212 - __main__ - INFO -    ✅ Dataset 3 encontrado
+2026-02-09 03:17:03,484 - __main__ - INFO -    ✅ Dataset 4 encontrado
+2026-02-09 03:17:03,754 - __main__ - INFO -    ✅ Dataset 5 encontrado
+2026-02-09 03:17:04,025 - __main__ - INFO -    ✅ Dataset 6 encontrado
+2026-02-09 03:17:04,296 - __main__ - INFO -    ✅ Dataset 7 encontrado
+2026-02-09 03:17:04,565 - __main__ - INFO -    ✅ Dataset 8 encontrado
+2026-02-09 03:17:04,839 - __main__ - INFO -    ✅ Dataset 9 encontrado
+2026-02-09 03:17:05,109 - __main__ - INFO -    ✅ Dataset 10 encontrado
+2026-02-09 03:17:05,383 - __main__ - INFO -    ✅ Dataset 11 encontrado
+2026-02-09 03:17:05,654 - __main__ - INFO -    ✅ Dataset 12 encontrado
+2026-02-09 03:17:15,055 - __main__ - INFO -    ℹ️  10 fallos consecutivos, deteniendo búsqueda
+2026-02-09 03:17:15,055 - __main__ - INFO - 📊 Descubrimiento: 12 dataset(s) encontrados: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2026-02-09 03:17:15,055 - __main__ - INFO - 📊 [1/12] Dataset 1...
+2026-02-09 03:17:15,056 - __main__ - INFO -    🔎 Auto-detectando fin...
+2026-02-09 03:17:15,056 - __main__ - INFO - 🔎 Detectando última página del dataset 1 (desde página 1)...
+2026-02-09 03:17:15,117 - __main__ - INFO -    ↗️  Página 201...
+2026-02-09 03:17:15,480 - __main__ - INFO -    ↗️  Página 301...
+2026-02-09 03:17:15,844 - __main__ - INFO -    ↗️  Página 401...
+2026-02-09 03:17:16,203 - __main__ - INFO -    ↗️  Página 501...
+2026-02-09 03:17:16,569 - __main__ - INFO -    ↗️  Página 601...
+2026-02-09 03:17:16,930 - __main__ - INFO -    ↗️  Página 701...
+2026-02-09 03:17:17,298 - __main__ - INFO -    ↗️  Página 801...
+2026-02-09 03:17:17,660 - __main__ - INFO -    ↗️  Página 901...
+2026-02-09 03:17:18,022 - __main__ - INFO -    ↗️  Página 1001...
+2026-02-09 03:17:18,394 - __main__ - INFO -    ↗️  Página 1101...
+2026-02-09 03:17:18,694 - __main__ - INFO -    📊 Búsqueda binaria entre 1001 y 1101...
+2026-02-09 03:17:18,762 - __main__ - INFO -    ✓ Página 1051: 50 archivos
+2026-02-09 03:17:19,022 - __main__ - INFO -    ✓ Página 1076: 50 archivos
+2026-02-09 03:17:21,144 - __main__ - INFO -    ✓ Página 1089: 50 archivos
+2026-02-09 03:17:21,406 - __main__ - INFO -    ✓ Página 1095: 50 archivos
+2026-02-09 03:17:21,670 - __main__ - INFO -    ✓ Página 1098: 50 archivos
+2026-02-09 03:17:21,933 - __main__ - INFO -    ✓ Página 1100: 50 archivos
+2026-02-09 03:17:22,194 - __main__ - INFO -    ✓ Página 1101: 50 archivos
+2026-02-09 03:17:22,395 - __main__ - INFO -    ✅ Última página: 1101
+2026-02-09 03:17:22,395 - __main__ - INFO -    📖 Rango: páginas 1-1101
+2026-02-09 03:17:22,456 - __main__ - INFO -    📄 Página 1: 50 archivos
+2026-02-09 03:17:22,818 - __main__ - INFO -    📄 Página 2: 50 archivos
+2026-02-09 03:17:23,181 - __main__ - INFO -    📄 Página 3: 50 archivos
+2026-02-09 03:17:23,546 - __main__ - INFO -    📄 Página 4: 50 archivos
+2026-02-09 03:17:23,909 - __main__ - INFO -    📄 Página 5: 50 archivos
+2026-02-09 03:17:24,271 - __main__ - INFO -    📄 Página 6: 50 archivos
+2026-02-09 03:17:24,634 - __main__ - INFO -    📄 Página 7: 50 archivos
+2026-02-09 03:17:24,998 - __main__ - INFO -    📄 Página 8: 50 archivos
+2026-02-09 03:17:25,360 - __main__ - INFO -    📄 Página 9: 50 archivos
+2026-02-09 03:17:25,722 - __main__ - INFO -    📄 Página 10: 50 archivos
+2026-02-09 03:17:26,083 - __main__ - INFO -    📄 Página 11: 50 archivos
+2026-02-09 03:17:26,445 - __main__ - INFO -    📄 Página 12: 50 archivos
+2026-02-09 03:17:26,807 - __main__ - INFO -    📄 Página 13: 50 archivos
+2026-02-09 03:17:27,170 - __main__ - INFO -    📄 Página 14: 50 archivos
+2026-02-09 03:17:27,534 - __main__ - INFO -    📄 Página 15: 50 archivos
+2026-02-09 03:17:27,896 - __main__ - INFO -    📄 Página 16: 50 archivos
+2026-02-09 03:17:28,263 - __main__ - INFO -    📄 Página 17: 50 archivos
+2026-02-09 03:17:28,627 - __main__ - INFO -    📄 Página 18: 50 archivos
+2026-02-09 03:17:28,990 - __main__ - INFO -    📄 Página 19: 50 archivos
+2026-02-09 03:17:29,353 - __main__ - INFO -    📄 Página 20: 50 archivos
+2026-02-09 03:17:29,713 - __main__ - INFO -    📄 Página 21: 50 archivos
+2026-02-09 03:17:30,075 - __main__ - INFO -    📄 Página 22: 50 archivos
+2026-02-09 03:17:30,437 - __main__ - INFO -    📄 Página 23: 50 archivos
+2026-02-09 03:17:30,798 - __main__ - INFO -    📄 Página 24: 50 archivos
+2026-02-09 03:17:31,160 - __main__ - INFO -    📄 Página 25: 50 archivos
+2026-02-09 03:17:31,521 - __main__ - INFO -    📄 Página 26: 50 archivos
+2026-02-09 03:17:31,883 - __main__ - INFO -    📄 Página 27: 50 archivos
+2026-02-09 03:17:32,244 - __main__ - INFO -    📄 Página 28: 50 archivos
+2026-02-09 03:17:32,607 - __main__ - INFO -    📄 Página 29: 50 archivos
+2026-02-09 03:17:32,970 - __main__ - INFO -    📄 Página 30: 50 archivos
+2026-02-09 03:17:33,333 - __main__ - INFO -    📄 Página 31: 50 archivos
+2026-02-09 03:17:33,694 - __main__ - INFO -    📄 Página 32: 50 archivos
+2026-02-09 03:17:34,056 - __main__ - INFO -    📄 Página 33: 50 archivos
+2026-02-09 03:17:34,417 - __main__ - INFO -    📄 Página 34: 50 archivos
+2026-02-09 03:17:34,779 - __main__ - INFO -    📄 Página 35: 50 archivos
+2026-02-09 03:17:35,141 - __main__ - INFO -    📄 Página 36: 50 archivos
+2026-02-09 03:17:35,506 - __main__ - INFO -    📄 Página 37: 50 archivos
+2026-02-09 03:17:35,870 - __main__ - INFO -    📄 Página 38: 50 archivos
+2026-02-09 03:17:36,232 - __main__ - INFO -    📄 Página 39: 50 archivos
+2026-02-09 03:17:36,596 - __main__ - INFO -    📄 Página 40: 50 archivos
+2026-02-09 03:17:36,963 - __main__ - INFO -    📄 Página 41: 50 archivos
+2026-02-09 03:17:37,327 - __main__ - INFO -    📄 Página 42: 50 archivos
+2026-02-09 03:17:37,691 - __main__ - INFO -    📄 Página 43: 50 archivos
+2026-02-09 03:17:38,057 - __main__ - INFO -    📄 Página 44: 50 archivos
+2026-02-09 03:17:38,422 - __main__ - INFO -    📄 Página 45: 50 archivos
+2026-02-09 03:17:38,787 - __main__ - INFO -    📄 Página 46: 50 archivos
+2026-02-09 03:17:39,155 - __main__ - INFO -    📄 Página 47: 50 archivos
+2026-02-09 03:17:39,518 - __main__ - INFO -    📄 Página 48: 50 archivos
+2026-02-09 03:17:39,881 - __main__ - INFO -    📄 Página 49: 50 archivos
+2026-02-09 03:17:40,244 - __main__ - INFO -    📄 Página 50: 50 archivos
+2026-02-09 03:17:40,607 - __main__ - INFO -    📄 Página 51: 50 archivos
+2026-02-09 03:17:40,972 - __main__ - INFO -    📄 Página 52: 50 archivos
+2026-02-09 03:17:41,335 - __main__ - INFO -    📄 Página 53: 50 archivos
+2026-02-09 03:17:41,697 - __main__ - INFO -    📄 Página 54: 50 archivos
+2026-02-09 03:17:42,058 - __main__ - INFO -    📄 Página 55: 50 archivos
+2026-02-09 03:17:42,423 - __main__ - INFO -    📄 Página 56: 50 archivos
+2026-02-09 03:17:42,784 - __main__ - INFO -    📄 Página 57: 50 archivos
+2026-02-09 03:17:43,146 - __main__ - INFO -    📄 Página 58: 50 archivos
+2026-02-09 03:17:43,509 - __main__ - INFO -    📄 Página 59: 50 archivos
+2026-02-09 03:17:43,874 - __main__ - INFO -    📄 Página 60: 50 archivos
+2026-02-09 03:17:44,238 - __main__ - INFO -    📄 Página 61: 50 archivos
+2026-02-09 03:17:44,603 - __main__ - INFO -    📄 Página 62: 50 archivos
+2026-02-09 03:17:44,966 - __main__ - INFO -    📄 Página 63: 6 archivos

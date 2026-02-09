@@ -1,0 +1,12 @@
+{
+  "dataset": 3,
+  "files_found": 49,
+  "files_downloaded": 0,
+  "files_skipped": 49,
+  "files_failed": 0,
+  "total_size_bytes": 0,
+  "start_time": "2026-02-09T18:46:53.242290",
+  "files": [],
+  "end_time": "2026-02-09T18:48:26.724846",
+  "duration_seconds": 107.106764793396
+}

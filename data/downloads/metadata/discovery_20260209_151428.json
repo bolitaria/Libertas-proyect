@@ -1,0 +1,75 @@
+{
+  "discovery_time": "2026-02-09T15:14:28.548652",
+  "total_datasets": 3,
+  "total_files": 148,
+  "session_stats": {
+    "requests_made": 9,
+    "successful_requests": 3,
+    "failed_requests": 0,
+    "403_errors": 6,
+    "session_refreshes": 0,
+    "start_time": "2026-02-09T15:13:43.863555"
+  },
+  "datasets": {
+    "1": {
+      "file_count": 50,
+      "files_sample": [
+        {
+          "filename": "EFTA00000001.pdf",
+          "type": "pdf",
+          "size": 373984
+        },
+        {
+          "filename": "EFTA00000002.pdf",
+          "type": "pdf",
+          "size": 575611
+        },
+        {
+          "filename": "EFTA00000003.pdf",
+          "type": "pdf",
+          "size": 616136
+        }
+      ]
+    },
+    "2": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00003159.pdf",
+          "type": "pdf",
+          "size": 320989
+        },
+        {
+          "filename": "EFTA00003160.pdf",
+          "type": "pdf",
+          "size": 289948
+        },
+        {
+          "filename": "EFTA00003161.pdf",
+          "type": "pdf",
+          "size": 385185
+        }
+      ]
+    },
+    "3": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00003858.pdf",
+          "type": "pdf",
+          "size": 1129921
+        },
+        {
+          "filename": "EFTA00003862.pdf",
+          "type": "pdf",
+          "size": 3258156
+        },
+        {
+          "filename": "EFTA00003868.pdf",
+          "type": "pdf",
+          "size": 16389783
+        }
+      ]
+    }
+  }
+}

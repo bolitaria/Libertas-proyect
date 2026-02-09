@@ -1,0 +1,8 @@
+sources:
+  - name: "DOJ Epstein Documents"
+    url: "https://www.justice.gov/opa/press-releases"
+    search_terms: ["Epstein", "Ghislaine Maxwell", "Jeffrey Epstein"]
+    document_types: ["pdf", "doc", "docx"]
+    date_range:
+      start: "2015-01-01"
+      end: "2023-12-31"

@@ -1,0 +1,1519 @@
+{
+  "timestamp": "2026-02-09T02:29:27.306085",
+  "results": {
+    "success": 100,
+    "failed": 0,
+    "skipped": 0,
+    "invalid": 0,
+    "total_size": 45167546,
+    "start": 1770604060.6651485,
+    "datasets_created": [
+      1
+    ],
+    "downloads": [
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf",
+          "original_name": "EFTA00000001.pdf",
+          "new_name": "EFTA00000001_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000001_dataset_1_pagina_1.pdf",
+        "file_size": 373984,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:41.069805"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000002.pdf",
+          "original_name": "EFTA00000002.pdf",
+          "new_name": "EFTA00000002_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000002_dataset_1_pagina_1.pdf",
+        "file_size": 575611,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:42.181301"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000003.pdf",
+          "original_name": "EFTA00000003.pdf",
+          "new_name": "EFTA00000003_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000003_dataset_1_pagina_1.pdf",
+        "file_size": 616136,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:43.263655"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000004.pdf",
+          "original_name": "EFTA00000004.pdf",
+          "new_name": "EFTA00000004_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000004_dataset_1_pagina_1.pdf",
+        "file_size": 659859,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:44.342624"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000005.pdf",
+          "original_name": "EFTA00000005.pdf",
+          "new_name": "EFTA00000005_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000005_dataset_1_pagina_1.pdf",
+        "file_size": 647068,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:45.420736"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000006.pdf",
+          "original_name": "EFTA00000006.pdf",
+          "new_name": "EFTA00000006_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000006_dataset_1_pagina_1.pdf",
+        "file_size": 690520,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:46.500392"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000007.pdf",
+          "original_name": "EFTA00000007.pdf",
+          "new_name": "EFTA00000007_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000007_dataset_1_pagina_1.pdf",
+        "file_size": 661535,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:47.582106"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000008.pdf",
+          "original_name": "EFTA00000008.pdf",
+          "new_name": "EFTA00000008_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000008_dataset_1_pagina_1.pdf",
+        "file_size": 455162,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:48.654132"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000009.pdf",
+          "original_name": "EFTA00000009.pdf",
+          "new_name": "EFTA00000009_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000009_dataset_1_pagina_1.pdf",
+        "file_size": 464628,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:49.726309"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000010.pdf",
+          "original_name": "EFTA00000010.pdf",
+          "new_name": "EFTA00000010_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000010_dataset_1_pagina_1.pdf",
+        "file_size": 475834,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:50.797433"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000011.pdf",
+          "original_name": "EFTA00000011.pdf",
+          "new_name": "EFTA00000011_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000011_dataset_1_pagina_1.pdf",
+        "file_size": 417957,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:51.868346"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000012.pdf",
+          "original_name": "EFTA00000012.pdf",
+          "new_name": "EFTA00000012_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000012_dataset_1_pagina_1.pdf",
+        "file_size": 421645,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:52.942157"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000013.pdf",
+          "original_name": "EFTA00000013.pdf",
+          "new_name": "EFTA00000013_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000013_dataset_1_pagina_1.pdf",
+        "file_size": 455155,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:54.014904"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000014.pdf",
+          "original_name": "EFTA00000014.pdf",
+          "new_name": "EFTA00000014_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000014_dataset_1_pagina_1.pdf",
+        "file_size": 444392,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:55.085778"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000015.pdf",
+          "original_name": "EFTA00000015.pdf",
+          "new_name": "EFTA00000015_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000015_dataset_1_pagina_1.pdf",
+        "file_size": 357459,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:56.153534"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000016.pdf",
+          "original_name": "EFTA00000016.pdf",
+          "new_name": "EFTA00000016_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000016_dataset_1_pagina_1.pdf",
+        "file_size": 407211,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:57.224342"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000017.pdf",
+          "original_name": "EFTA00000017.pdf",
+          "new_name": "EFTA00000017_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000017_dataset_1_pagina_1.pdf",
+        "file_size": 365241,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:58.292745"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000018.pdf",
+          "original_name": "EFTA00000018.pdf",
+          "new_name": "EFTA00000018_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000018_dataset_1_pagina_1.pdf",
+        "file_size": 397219,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:27:59.362586"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000019.pdf",
+          "original_name": "EFTA00000019.pdf",
+          "new_name": "EFTA00000019_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000019_dataset_1_pagina_1.pdf",
+        "file_size": 463248,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:00.440378"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000020.pdf",
+          "original_name": "EFTA00000020.pdf",
+          "new_name": "EFTA00000020_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000020_dataset_1_pagina_1.pdf",
+        "file_size": 442747,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:01.515777"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000021.pdf",
+          "original_name": "EFTA00000021.pdf",
+          "new_name": "EFTA00000021_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000021_dataset_1_pagina_1.pdf",
+        "file_size": 337171,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:02.585585"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000022.pdf",
+          "original_name": "EFTA00000022.pdf",
+          "new_name": "EFTA00000022_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000022_dataset_1_pagina_1.pdf",
+        "file_size": 373630,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:03.654686"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000023.pdf",
+          "original_name": "EFTA00000023.pdf",
+          "new_name": "EFTA00000023_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000023_dataset_1_pagina_1.pdf",
+        "file_size": 398955,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:04.723113"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000024.pdf",
+          "original_name": "EFTA00000024.pdf",
+          "new_name": "EFTA00000024_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000024_dataset_1_pagina_1.pdf",
+        "file_size": 411590,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:05.793621"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000025.pdf",
+          "original_name": "EFTA00000025.pdf",
+          "new_name": "EFTA00000025_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000025_dataset_1_pagina_1.pdf",
+        "file_size": 385853,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:06.862896"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000026.pdf",
+          "original_name": "EFTA00000026.pdf",
+          "new_name": "EFTA00000026_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000026_dataset_1_pagina_1.pdf",
+        "file_size": 385598,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:07.932835"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000027.pdf",
+          "original_name": "EFTA00000027.pdf",
+          "new_name": "EFTA00000027_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000027_dataset_1_pagina_1.pdf",
+        "file_size": 364587,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:09.001844"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000028.pdf",
+          "original_name": "EFTA00000028.pdf",
+          "new_name": "EFTA00000028_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000028_dataset_1_pagina_1.pdf",
+        "file_size": 366253,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:10.072545"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000029.pdf",
+          "original_name": "EFTA00000029.pdf",
+          "new_name": "EFTA00000029_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000029_dataset_1_pagina_1.pdf",
+        "file_size": 377763,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:11.142332"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000030.pdf",
+          "original_name": "EFTA00000030.pdf",
+          "new_name": "EFTA00000030_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000030_dataset_1_pagina_1.pdf",
+        "file_size": 383432,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:12.213648"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000031.pdf",
+          "original_name": "EFTA00000031.pdf",
+          "new_name": "EFTA00000031_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000031_dataset_1_pagina_1.pdf",
+        "file_size": 484765,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:13.285808"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000032.pdf",
+          "original_name": "EFTA00000032.pdf",
+          "new_name": "EFTA00000032_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000032_dataset_1_pagina_1.pdf",
+        "file_size": 512316,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:14.359464"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000033.pdf",
+          "original_name": "EFTA00000033.pdf",
+          "new_name": "EFTA00000033_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000033_dataset_1_pagina_1.pdf",
+        "file_size": 512955,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:15.438872"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000034.pdf",
+          "original_name": "EFTA00000034.pdf",
+          "new_name": "EFTA00000034_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000034_dataset_1_pagina_1.pdf",
+        "file_size": 402338,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:16.509213"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000035.pdf",
+          "original_name": "EFTA00000035.pdf",
+          "new_name": "EFTA00000035_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000035_dataset_1_pagina_1.pdf",
+        "file_size": 481336,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:17.582777"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000036.pdf",
+          "original_name": "EFTA00000036.pdf",
+          "new_name": "EFTA00000036_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000036_dataset_1_pagina_1.pdf",
+        "file_size": 415917,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:18.657464"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000037.pdf",
+          "original_name": "EFTA00000037.pdf",
+          "new_name": "EFTA00000037_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000037_dataset_1_pagina_1.pdf",
+        "file_size": 458389,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:19.728261"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000038.pdf",
+          "original_name": "EFTA00000038.pdf",
+          "new_name": "EFTA00000038_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000038_dataset_1_pagina_1.pdf",
+        "file_size": 382086,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:20.796154"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000039.pdf",
+          "original_name": "EFTA00000039.pdf",
+          "new_name": "EFTA00000039_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000039_dataset_1_pagina_1.pdf",
+        "file_size": 433733,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:21.868027"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000040.pdf",
+          "original_name": "EFTA00000040.pdf",
+          "new_name": "EFTA00000040_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000040_dataset_1_pagina_1.pdf",
+        "file_size": 350557,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:22.937192"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000041.pdf",
+          "original_name": "EFTA00000041.pdf",
+          "new_name": "EFTA00000041_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000041_dataset_1_pagina_1.pdf",
+        "file_size": 392388,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:24.005583"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000042.pdf",
+          "original_name": "EFTA00000042.pdf",
+          "new_name": "EFTA00000042_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000042_dataset_1_pagina_1.pdf",
+        "file_size": 398436,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:25.073989"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000043.pdf",
+          "original_name": "EFTA00000043.pdf",
+          "new_name": "EFTA00000043_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000043_dataset_1_pagina_1.pdf",
+        "file_size": 401309,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:26.146635"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000044.pdf",
+          "original_name": "EFTA00000044.pdf",
+          "new_name": "EFTA00000044_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000044_dataset_1_pagina_1.pdf",
+        "file_size": 400690,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:27.218517"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000045.pdf",
+          "original_name": "EFTA00000045.pdf",
+          "new_name": "EFTA00000045_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000045_dataset_1_pagina_1.pdf",
+        "file_size": 396387,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:28.289797"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000046.pdf",
+          "original_name": "EFTA00000046.pdf",
+          "new_name": "EFTA00000046_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000046_dataset_1_pagina_1.pdf",
+        "file_size": 388305,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:29.359991"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000047.pdf",
+          "original_name": "EFTA00000047.pdf",
+          "new_name": "EFTA00000047_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000047_dataset_1_pagina_1.pdf",
+        "file_size": 481397,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:30.435276"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000048.pdf",
+          "original_name": "EFTA00000048.pdf",
+          "new_name": "EFTA00000048_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000048_dataset_1_pagina_1.pdf",
+        "file_size": 567243,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:31.509946"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000049.pdf",
+          "original_name": "EFTA00000049.pdf",
+          "new_name": "EFTA00000049_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000049_dataset_1_pagina_1.pdf",
+        "file_size": 466415,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:32.584214"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000050.pdf",
+          "original_name": "EFTA00000050.pdf",
+          "new_name": "EFTA00000050_dataset_1_pagina_1.pdf",
+          "dataset": 1,
+          "page": 1,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000050_dataset_1_pagina_1.pdf",
+        "file_size": 496612,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:33.658726"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000101.pdf",
+          "original_name": "EFTA00000101.pdf",
+          "new_name": "EFTA00000101_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000101_dataset_1_pagina_2.pdf",
+        "file_size": 335140,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:34.725995"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000102.pdf",
+          "original_name": "EFTA00000102.pdf",
+          "new_name": "EFTA00000102_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000102_dataset_1_pagina_2.pdf",
+        "file_size": 435767,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:35.798233"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000103.pdf",
+          "original_name": "EFTA00000103.pdf",
+          "new_name": "EFTA00000103_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000103_dataset_1_pagina_2.pdf",
+        "file_size": 434710,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:36.870493"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000104.pdf",
+          "original_name": "EFTA00000104.pdf",
+          "new_name": "EFTA00000104_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000104_dataset_1_pagina_2.pdf",
+        "file_size": 426248,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:37.945193"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000105.pdf",
+          "original_name": "EFTA00000105.pdf",
+          "new_name": "EFTA00000105_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000105_dataset_1_pagina_2.pdf",
+        "file_size": 410579,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:39.016404"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000106.pdf",
+          "original_name": "EFTA00000106.pdf",
+          "new_name": "EFTA00000106_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000106_dataset_1_pagina_2.pdf",
+        "file_size": 400701,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:40.086442"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000107.pdf",
+          "original_name": "EFTA00000107.pdf",
+          "new_name": "EFTA00000107_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000107_dataset_1_pagina_2.pdf",
+        "file_size": 392353,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:41.159621"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000108.pdf",
+          "original_name": "EFTA00000108.pdf",
+          "new_name": "EFTA00000108_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000108_dataset_1_pagina_2.pdf",
+        "file_size": 435899,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:42.231615"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000109.pdf",
+          "original_name": "EFTA00000109.pdf",
+          "new_name": "EFTA00000109_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000109_dataset_1_pagina_2.pdf",
+        "file_size": 395331,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:43.300394"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000110.pdf",
+          "original_name": "EFTA00000110.pdf",
+          "new_name": "EFTA00000110_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000110_dataset_1_pagina_2.pdf",
+        "file_size": 430521,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:44.372263"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000111.pdf",
+          "original_name": "EFTA00000111.pdf",
+          "new_name": "EFTA00000111_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000111_dataset_1_pagina_2.pdf",
+        "file_size": 470069,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:45.449369"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000112.pdf",
+          "original_name": "EFTA00000112.pdf",
+          "new_name": "EFTA00000112_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000112_dataset_1_pagina_2.pdf",
+        "file_size": 481000,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:46.522283"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000113.pdf",
+          "original_name": "EFTA00000113.pdf",
+          "new_name": "EFTA00000113_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000113_dataset_1_pagina_2.pdf",
+        "file_size": 424363,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:47.592677"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000114.pdf",
+          "original_name": "EFTA00000114.pdf",
+          "new_name": "EFTA00000114_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000114_dataset_1_pagina_2.pdf",
+        "file_size": 411533,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:48.663465"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000115.pdf",
+          "original_name": "EFTA00000115.pdf",
+          "new_name": "EFTA00000115_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000115_dataset_1_pagina_2.pdf",
+        "file_size": 438098,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:49.733557"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000116.pdf",
+          "original_name": "EFTA00000116.pdf",
+          "new_name": "EFTA00000116_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000116_dataset_1_pagina_2.pdf",
+        "file_size": 427609,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:50.805792"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000117.pdf",
+          "original_name": "EFTA00000117.pdf",
+          "new_name": "EFTA00000117_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000117_dataset_1_pagina_2.pdf",
+        "file_size": 440622,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:51.882038"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000118.pdf",
+          "original_name": "EFTA00000118.pdf",
+          "new_name": "EFTA00000118_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000118_dataset_1_pagina_2.pdf",
+        "file_size": 456277,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:52.958359"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000119.pdf",
+          "original_name": "EFTA00000119.pdf",
+          "new_name": "EFTA00000119_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000119_dataset_1_pagina_2.pdf",
+        "file_size": 494606,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:54.032485"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000120.pdf",
+          "original_name": "EFTA00000120.pdf",
+          "new_name": "EFTA00000120_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000120_dataset_1_pagina_2.pdf",
+        "file_size": 480747,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:55.113146"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000121.pdf",
+          "original_name": "EFTA00000121.pdf",
+          "new_name": "EFTA00000121_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000121_dataset_1_pagina_2.pdf",
+        "file_size": 438750,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:56.184960"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000122.pdf",
+          "original_name": "EFTA00000122.pdf",
+          "new_name": "EFTA00000122_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000122_dataset_1_pagina_2.pdf",
+        "file_size": 466231,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:57.261966"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000123.pdf",
+          "original_name": "EFTA00000123.pdf",
+          "new_name": "EFTA00000123_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000123_dataset_1_pagina_2.pdf",
+        "file_size": 403589,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:58.335589"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000124.pdf",
+          "original_name": "EFTA00000124.pdf",
+          "new_name": "EFTA00000124_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000124_dataset_1_pagina_2.pdf",
+        "file_size": 451860,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:28:59.409467"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000125.pdf",
+          "original_name": "EFTA00000125.pdf",
+          "new_name": "EFTA00000125_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000125_dataset_1_pagina_2.pdf",
+        "file_size": 467720,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:00.482470"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000126.pdf",
+          "original_name": "EFTA00000126.pdf",
+          "new_name": "EFTA00000126_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000126_dataset_1_pagina_2.pdf",
+        "file_size": 468046,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:01.555444"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000127.pdf",
+          "original_name": "EFTA00000127.pdf",
+          "new_name": "EFTA00000127_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000127_dataset_1_pagina_2.pdf",
+        "file_size": 428947,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:02.626397"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000128.pdf",
+          "original_name": "EFTA00000128.pdf",
+          "new_name": "EFTA00000128_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000128_dataset_1_pagina_2.pdf",
+        "file_size": 446524,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:03.698085"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000129.pdf",
+          "original_name": "EFTA00000129.pdf",
+          "new_name": "EFTA00000129_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000129_dataset_1_pagina_2.pdf",
+        "file_size": 512879,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:04.771042"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000130.pdf",
+          "original_name": "EFTA00000130.pdf",
+          "new_name": "EFTA00000130_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000130_dataset_1_pagina_2.pdf",
+        "file_size": 459154,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:05.841552"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000131.pdf",
+          "original_name": "EFTA00000131.pdf",
+          "new_name": "EFTA00000131_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000131_dataset_1_pagina_2.pdf",
+        "file_size": 460805,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:06.912978"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000132.pdf",
+          "original_name": "EFTA00000132.pdf",
+          "new_name": "EFTA00000132_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000132_dataset_1_pagina_2.pdf",
+        "file_size": 410347,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:07.983401"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000133.pdf",
+          "original_name": "EFTA00000133.pdf",
+          "new_name": "EFTA00000133_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000133_dataset_1_pagina_2.pdf",
+        "file_size": 457596,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:09.055973"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000134.pdf",
+          "original_name": "EFTA00000134.pdf",
+          "new_name": "EFTA00000134_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000134_dataset_1_pagina_2.pdf",
+        "file_size": 523821,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:10.128220"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000135.pdf",
+          "original_name": "EFTA00000135.pdf",
+          "new_name": "EFTA00000135_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000135_dataset_1_pagina_2.pdf",
+        "file_size": 509403,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:11.200691"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000136.pdf",
+          "original_name": "EFTA00000136.pdf",
+          "new_name": "EFTA00000136_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000136_dataset_1_pagina_2.pdf",
+        "file_size": 516228,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:12.273650"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000137.pdf",
+          "original_name": "EFTA00000137.pdf",
+          "new_name": "EFTA00000137_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000137_dataset_1_pagina_2.pdf",
+        "file_size": 401832,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:13.346751"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000138.pdf",
+          "original_name": "EFTA00000138.pdf",
+          "new_name": "EFTA00000138_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000138_dataset_1_pagina_2.pdf",
+        "file_size": 430156,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:14.422157"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000139.pdf",
+          "original_name": "EFTA00000139.pdf",
+          "new_name": "EFTA00000139_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000139_dataset_1_pagina_2.pdf",
+        "file_size": 583682,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:15.499007"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000140.pdf",
+          "original_name": "EFTA00000140.pdf",
+          "new_name": "EFTA00000140_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000140_dataset_1_pagina_2.pdf",
+        "file_size": 505186,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:16.570729"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000141.pdf",
+          "original_name": "EFTA00000141.pdf",
+          "new_name": "EFTA00000141_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000141_dataset_1_pagina_2.pdf",
+        "file_size": 442396,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:17.643299"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000142.pdf",
+          "original_name": "EFTA00000142.pdf",
+          "new_name": "EFTA00000142_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000142_dataset_1_pagina_2.pdf",
+        "file_size": 422119,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:18.713916"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000143.pdf",
+          "original_name": "EFTA00000143.pdf",
+          "new_name": "EFTA00000143_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000143_dataset_1_pagina_2.pdf",
+        "file_size": 469800,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:19.790058"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000144.pdf",
+          "original_name": "EFTA00000144.pdf",
+          "new_name": "EFTA00000144_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000144_dataset_1_pagina_2.pdf",
+        "file_size": 434425,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:20.862653"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000145.pdf",
+          "original_name": "EFTA00000145.pdf",
+          "new_name": "EFTA00000145_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000145_dataset_1_pagina_2.pdf",
+        "file_size": 505561,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:21.938063"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000146.pdf",
+          "original_name": "EFTA00000146.pdf",
+          "new_name": "EFTA00000146_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000146_dataset_1_pagina_2.pdf",
+        "file_size": 476791,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:23.012118"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000147.pdf",
+          "original_name": "EFTA00000147.pdf",
+          "new_name": "EFTA00000147_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000147_dataset_1_pagina_2.pdf",
+        "file_size": 455031,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:24.086671"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000148.pdf",
+          "original_name": "EFTA00000148.pdf",
+          "new_name": "EFTA00000148_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000148_dataset_1_pagina_2.pdf",
+        "file_size": 539967,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:25.161126"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000149.pdf",
+          "original_name": "EFTA00000149.pdf",
+          "new_name": "EFTA00000149_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000149_dataset_1_pagina_2.pdf",
+        "file_size": 516158,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:26.231973"
+      },
+      {
+        "file_info": {
+          "url": "https://www.justice.gov/epstein/files/DataSet%201/EFTA00000150.pdf",
+          "original_name": "EFTA00000150.pdf",
+          "new_name": "EFTA00000150_dataset_1_pagina_2.pdf",
+          "dataset": 1,
+          "page": 2,
+          "extension": ".pdf"
+        },
+        "status": "DownloadStatus.SUCCESS",
+        "file_path": "/data/downloads/raw/dataset_1/EFTA00000150_dataset_1_pagina_2.pdf",
+        "file_size": 539352,
+        "error_message": null,
+        "timestamp": "2026-02-09T02:29:27.306008"
+      }
+    ],
+    "end": 1770604167.3060813,
+    "duration": 106.64093279838562
+  },
+  "total_downloaded": 100
+}

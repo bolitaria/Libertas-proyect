@@ -1,0 +1,115 @@
+{
+  "discovery_time": "2026-02-09T15:32:17.302167",
+  "total_datasets": 5,
+  "total_files": 246,
+  "session_stats": {
+    "requests_made": 15,
+    "successful_requests": 5,
+    "failed_requests": 0,
+    "403_errors": 10,
+    "session_refreshes": 0,
+    "start_time": "2026-02-09T15:31:08.918275"
+  },
+  "datasets": {
+    "1": {
+      "file_count": 50,
+      "files_sample": [
+        {
+          "filename": "EFTA00000001.pdf",
+          "type": "pdf",
+          "size": null
+        },
+        {
+          "filename": "EFTA00000002.pdf",
+          "type": "pdf",
+          "size": null
+        },
+        {
+          "filename": "EFTA00000003.pdf",
+          "type": "pdf",
+          "size": null
+        }
+      ]
+    },
+    "2": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00003159.pdf",
+          "type": "pdf",
+          "size": 320989
+        },
+        {
+          "filename": "EFTA00003160.pdf",
+          "type": "pdf",
+          "size": 289948
+        },
+        {
+          "filename": "EFTA00003161.pdf",
+          "type": "pdf",
+          "size": 385185
+        }
+      ]
+    },
+    "3": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00003858.pdf",
+          "type": "pdf",
+          "size": 1129921
+        },
+        {
+          "filename": "EFTA00003862.pdf",
+          "type": "pdf",
+          "size": 3258156
+        },
+        {
+          "filename": "EFTA00003868.pdf",
+          "type": "pdf",
+          "size": 16389783
+        }
+      ]
+    },
+    "4": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00005705.pdf",
+          "type": "pdf",
+          "size": 30168
+        },
+        {
+          "filename": "EFTA00005707.pdf",
+          "type": "pdf",
+          "size": 154193
+        },
+        {
+          "filename": "EFTA00005711.pdf",
+          "type": "pdf",
+          "size": 158814
+        }
+      ]
+    },
+    "5": {
+      "file_count": 49,
+      "files_sample": [
+        {
+          "filename": "EFTA00008409.pdf",
+          "type": "pdf",
+          "size": 535668
+        },
+        {
+          "filename": "EFTA00008410.pdf",
+          "type": "pdf",
+          "size": 583036
+        },
+        {
+          "filename": "EFTA00008411.pdf",
+          "type": "pdf",
+          "size": 634771
+        }
+      ]
+    }
+  }
+}

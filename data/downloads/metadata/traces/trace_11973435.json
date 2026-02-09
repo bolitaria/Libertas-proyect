@@ -1,0 +1,53 @@
+{
+  "operation_id": "11973435",
+  "operation_type": "fetch_and_download",
+  "datasets": [
+    1,
+    2
+  ],
+  "start_time": "2026-02-09T02:32:07.297463",
+  "end_time": "2026-02-09T02:34:30.552553",
+  "duration_seconds": 143.25509,
+  "status": "completed",
+  "metrics": {
+    "discovery": {
+      "start_time": "2026-02-09T02:32:07.297573",
+      "datasets_explored": 2,
+      "files_discovered": 4023,
+      "pages_processed": 100,
+      "errors_encountered": 0,
+      "end_time": "2026-02-09T02:32:44.937092"
+    },
+    "filtering": {
+      "total": 4023,
+      "new": 4023,
+      "cached": 0
+    },
+    "selection": {
+      "order": "firsts",
+      "limit": 100,
+      "selected": 100
+    },
+    "results": {
+      "success": 100,
+      "failed": 0,
+      "skipped": 0,
+      "invalid": 0,
+      "total_size": 45167546,
+      "start": 1770604364.9385283,
+      "datasets_created": [
+        1
+      ],
+      "downloads_by_dataset": {
+        "1": {
+          "success": 100,
+          "failed": 0,
+          "skipped": 0
+        }
+      },
+      "end": 1770604470.5525448,
+      "duration": 105.61401653289795
+    }
+  },
+  "errors": []
+}

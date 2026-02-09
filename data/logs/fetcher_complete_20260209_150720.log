@@ -1,0 +1,26 @@
+2026-02-09 15:07:20 [INFO    ] EpsteinFetcher - 🚀 Inicializando fetcher...
+2026-02-09 15:07:20 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 15:07:20 [INFO    ] EpsteinFetcher - 🔄 Estableciendo sesión robusta...
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 🎉 SESIÓN ESTABLECIDA CORRECTAMENTE
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 📋 Cookies activas finales: {'ak_bmsc': {'value': '996D265655E7452DA530...', 'domain': '.justice.gov', 'path': '/'}, 'justiceGovAgeVerified': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}, 'disclosures_accessed': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}}
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 🍪 Cookies configuradas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 📊 Cookies activas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE COMPLETO - SESIÓN ROBUSTA
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 5-5
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 📂 PROCESANDO DATASET 5
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 5...
+2026-02-09 15:07:25 [INFO    ] EpsteinFetcher -   Página 1: 49 archivos nuevos
+2026-02-09 15:07:27 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2 (intento 1)
+2026-02-09 15:07:31 [INFO    ] EpsteinFetcher -   Página 2: 20 archivos nuevos
+2026-02-09 15:07:36 [WARNING ] EpsteinFetcher -   Página 3: 0 archivos nuevos
+2026-02-09 15:07:37 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=4 (intento 1)
+2026-02-09 15:07:41 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=4 (intento 2)
+2026-02-09 15:07:41 [WARNING ] EpsteinFetcher -   Página 4: No se pudo acceder
+2026-02-09 15:07:45 [INFO    ] EpsteinFetcher -   🔍 Validando 69 archivos...

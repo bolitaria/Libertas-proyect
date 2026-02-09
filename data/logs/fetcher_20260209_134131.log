@@ -1,0 +1,24 @@
+2026-02-09 13:41:31 - __main__ - INFO - ✅ Fetcher inicializado. Directorio base: /data/downloads
+2026-02-09 13:41:31 - __main__ - INFO - 🚀 INICIANDO PIPELINE COMPLETO
+2026-02-09 13:41:31 - __main__ - INFO - 📊 Parámetros: datasets 5-9, workers=10
+2026-02-09 13:41:31 - __main__ - INFO - 🔍 Explorando Dataset 5 (paginación corregida)...
+2026-02-09 13:41:32 - __main__ - ERROR - ❌ Error fatal: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+Traceback (most recent call last):
+  File "/app/main_v3.py", line 682, in main
+    results = fetcher.run_pipeline(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 558, in run_pipeline
+    all_files = self.discover_all_datasets(start_dataset, end_dataset)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 512, in discover_all_datasets
+    files = self.discover_dataset_files_corrected(dataset_num)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 216, in discover_dataset_files_corrected
+    page_files = self._extract_links_soup(response.text, url, dataset_num)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 250, in _extract_links_soup
+    soup = BeautifulSoup(html, 'lxml')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/bs4/__init__.py", line 366, in __init__
+    raise FeatureNotFound(
+bs4.exceptions.FeatureNotFound: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?

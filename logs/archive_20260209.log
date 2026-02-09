@@ -1,0 +1,647 @@
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:233 - 🆕 No cache found, creating new cache state
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:170 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:171 - 📁 Base directory: /data/downloads
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:172 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:173 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:813 - 🧹 Cleaning up failed downloads...
+2026-02-09 19:30:19 [DEBUG   ] EpsteinArchiver:281 - 💾 Cache saved: 0 files
+2026-02-09 19:30:19 [INFO    ] EpsteinArchiver:824 - 🧹 Removed 0 persistently failed files from cache
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:242 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:170 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:171 - 📁 Base directory: /data/downloads
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:172 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:173 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:813 - 🧹 Cleaning up failed downloads...
+2026-02-09 20:48:46 [DEBUG   ] EpsteinArchiver:274 - 💾 Created cache backup
+2026-02-09 20:48:46 [DEBUG   ] EpsteinArchiver:281 - 💾 Cache saved: 0 files
+2026-02-09 20:48:46 [INFO    ] EpsteinArchiver:824 - 🧹 Removed 0 persistently failed files from cache
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:215 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:820 - 🧹 Starting cleanup: level=orphaned, dataset=None
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000005.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000013.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000011.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000010.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000012.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000007.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000003.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000006.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000008.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000001.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000002.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000004.pdf
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:852 - 🗑️ Removed orphaned file: EFTA00000009.pdf
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:854 - 🧹 Removed 13 orphaned files from /raw
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:246 - 💾 Created cache backup
+2026-02-09 20:50:15 [DEBUG   ] EpsteinArchiver:253 - 💾 Cache saved: 0 files
+2026-02-09 20:50:15 [INFO    ] EpsteinArchiver:914 - 📊 Cleanup stats: 0 cache entries, 13 physical files, 6.6 MB freed
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:215 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:820 - 🧹 Starting cleanup: level=all, dataset=None
+2026-02-09 20:50:52 [INFO    ] EpsteinArchiver:902 - 🧹 Complete cleanup: all files and cache removed
+2026-02-09 20:50:52 [DEBUG   ] EpsteinArchiver:246 - 💾 Created cache backup
+2026-02-09 20:50:52 [DEBUG   ] EpsteinArchiver:253 - 💾 Cache saved: 0 files
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:215 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:820 - 🧹 Starting cleanup: level=all, dataset=None
+2026-02-09 20:55:29 [INFO    ] EpsteinArchiver:902 - 🧹 Complete cleanup: all files and cache removed
+2026-02-09 20:55:29 [DEBUG   ] EpsteinArchiver:246 - 💾 Created cache backup
+2026-02-09 20:55:29 [DEBUG   ] EpsteinArchiver:253 - 💾 Cache saved: 0 files
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:215 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:820 - 🧹 Starting cleanup: level=orphaned, dataset=None
+2026-02-09 20:55:42 [INFO    ] EpsteinArchiver:854 - 🧹 Removed 0 orphaned files from /raw
+2026-02-09 20:55:42 [DEBUG   ] EpsteinArchiver:246 - 💾 Created cache backup
+2026-02-09 20:55:42 [DEBUG   ] EpsteinArchiver:253 - 💾 Cache saved: 0 files
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:215 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory: /data/downloads/raw
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:820 - 🧹 Starting cleanup: level=all, dataset=None
+2026-02-09 21:02:20 [INFO    ] EpsteinArchiver:902 - 🧹 Complete cleanup: all files and cache removed
+2026-02-09 21:02:20 [DEBUG   ] EpsteinArchiver:246 - 💾 Created cache backup
+2026-02-09 21:02:20 [DEBUG   ] EpsteinArchiver:253 - 💾 Cache saved: 0 files
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:221 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory structure: /data/downloads/raw/dataset[1-9]/
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:836 - 🧹 Starting cleanup: level=all, dataset=None
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:921 - 🧹 Cleaning dataset directory: /data/downloads/raw/dataset-3
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004070.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004179.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003858.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003929.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004243.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004157.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00005191.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003942.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004231.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004012.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004060.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004898.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003868.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004663.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004046.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004234.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004051.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003936.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004763.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004248.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004057.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003939.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004049.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004055.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004245.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004041.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003931.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004043.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004105.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004066.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003951.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004100.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004039.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00005091.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004448.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004348.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004250.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003925.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003927.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004064.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003921.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00004975.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003923.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003919.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003948.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003862.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003945.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00003933.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-3/EFTA00005075.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:943 - 🗑️ Removed dataset directory: /data/downloads/raw/dataset-3
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:921 - 🧹 Cleaning dataset directory: /data/downloads/raw/dataset-2
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003199.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003171.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003176.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003196.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003203.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003160.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003173.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003172.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003205.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003184.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003188.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003200.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003191.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003186.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003194.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003190.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003163.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003169.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003161.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003167.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003177.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003168.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003207.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003178.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003195.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003174.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003179.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003166.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003183.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003201.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003202.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003206.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003204.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003197.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003159.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003170.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003164.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003180.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003189.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003165.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003185.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003181.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003193.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003192.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003198.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003175.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003162.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003187.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-2/EFTA00003182.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:943 - 🗑️ Removed dataset directory: /data/downloads/raw/dataset-2
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:921 - 🧹 Cleaning dataset directory: /data/downloads/raw/dataset-5
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008449.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008436.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008432.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008456.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008415.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008454.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008424.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008422.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008418.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008438.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008443.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008444.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008457.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008420.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008442.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008412.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008430.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008447.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008431.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008410.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008428.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008434.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008417.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008429.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008445.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008433.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008452.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008439.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008435.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008414.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008426.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008427.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008419.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008425.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008421.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008411.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008440.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008441.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008448.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008413.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008437.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008446.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008423.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008455.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008453.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008451.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008409.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008450.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-5/EFTA00008416.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:943 - 🗑️ Removed dataset directory: /data/downloads/raw/dataset-5
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:921 - 🧹 Cleaning dataset directory: /data/downloads/raw/dataset-4
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005818.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005740.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005899.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005783.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005932.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005924.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006100.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006036.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005994.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005848.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005707.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006104.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005716.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005967.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006043.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006107.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006039.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006066.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006209.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006085.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005971.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005855.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006025.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005717.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006055.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006371.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006072.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005946.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006369.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006364.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006109.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006367.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005832.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006049.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005714.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006069.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005774.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005718.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006309.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005945.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005711.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006099.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005910.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005959.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005731.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00006093.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005763.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005878.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-4/EFTA00005705.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:943 - 🗑️ Removed dataset directory: /data/downloads/raw/dataset-4
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:921 - 🧹 Cleaning dataset directory: /data/downloads/raw/dataset-1
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000050.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000036.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000012.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000035.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000018.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000001.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000037.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000041.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000002.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000023.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000030.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000013.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000046.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000015.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000040.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000022.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000005.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000014.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000017.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000024.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000028.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000047.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000010.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000031.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000009.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000049.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000004.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000020.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000044.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000027.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000011.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000038.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000039.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000016.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000019.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000007.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000006.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000042.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000021.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000034.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000026.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000008.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000048.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000029.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000043.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000032.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000025.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000033.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000045.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:931 - 🗑️ Removed file: /data/downloads/raw/dataset-1/EFTA00000003.pdf
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:943 - 🗑️ Removed dataset directory: /data/downloads/raw/dataset-1
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:957 - 🧹 Complete cleanup: all dataset directories and cache removed
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:02:33 [DEBUG   ] EpsteinArchiver:259 - 💾 Cache saved: 0 files
+2026-02-09 21:02:33 [INFO    ] EpsteinArchiver:970 - 📊 Cleanup stats: 0 cache entries, 246 physical files, 5 directories, 504.8 MB (0.49 GB) freed
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:221 - 📂 Cache loaded: 0 files, 0 downloaded
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:169 - 🚀 Resilient Epstein Archiver Initialized
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:170 - 📁 Base directory: /data/downloads
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:171 - 📦 Cache file: /data/downloads/cache/archive_cache.json
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:172 - 💾 Raw files directory structure: /data/downloads/raw/dataset[1-9]/
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:679 - ======================================================================
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:680 - 🚀 RESILIENT EPSTEIN DOCUMENT ARCHIVER
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:681 - ======================================================================
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:682 - 📊 Configuration:
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:683 -    • Datasets: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:684 -    • Mode: Discovery only
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:685 -    • Cache: /data/downloads/cache/archive_cache.json
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:686 -    • Files dir: /data/downloads/raw/dataset[1-9]/
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:687 - ======================================================================
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 1/9 (1)
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 1
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:05:15 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 1
+2026-02-09 21:05:15 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 4.3s
+2026-02-09 21:05:20 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 1: Found 100 files (100 new)
+2026-02-09 21:05:20 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:05:20 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:05:20 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_1_20260209_210520.json
+2026-02-09 21:05:20 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:05:20 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:05:20 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 15.2s...
+2026-02-09 21:05:35 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 2/9 (2)
+2026-02-09 21:05:35 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:05:35 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 2
+2026-02-09 21:05:35 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:05:35 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 2
+2026-02-09 21:05:35 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 3.8s
+2026-02-09 21:05:39 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 2: Found 98 files (98 new)
+2026-02-09 21:05:39 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:05:39 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:05:39 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_2_20260209_210539.json
+2026-02-09 21:05:39 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:05:39 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:05:39 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 16.9s...
+2026-02-09 21:05:56 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 3/9 (3)
+2026-02-09 21:05:56 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:05:56 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 3
+2026-02-09 21:05:56 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:05:56 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 3
+2026-02-09 21:05:56 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 6.4s
+2026-02-09 21:06:02 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 3: Found 98 files (98 new)
+2026-02-09 21:06:02 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:02 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:02 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_3_20260209_210602.json
+2026-02-09 21:06:02 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:02 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:02 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 18.0s...
+2026-02-09 21:06:20 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 4/9 (4)
+2026-02-09 21:06:20 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:06:20 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 4
+2026-02-09 21:06:20 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:06:20 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 4
+2026-02-09 21:06:20 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 5.0s
+2026-02-09 21:06:25 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 4: Found 98 files (98 new)
+2026-02-09 21:06:25 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:25 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:25 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_4_20260209_210625.json
+2026-02-09 21:06:25 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:25 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:25 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 19.0s...
+2026-02-09 21:06:44 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 5/9 (5)
+2026-02-09 21:06:44 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:06:44 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 5
+2026-02-09 21:06:44 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:06:44 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 5
+2026-02-09 21:06:44 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 6.3s
+2026-02-09 21:06:51 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 5: Found 98 files (98 new)
+2026-02-09 21:06:51 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:51 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:51 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_5_20260209_210651.json
+2026-02-09 21:06:51 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:06:51 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:06:51 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 15.3s...
+2026-02-09 21:07:06 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 6/9 (6)
+2026-02-09 21:07:06 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:07:06 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 6
+2026-02-09 21:07:06 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:07:06 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 6
+2026-02-09 21:07:06 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 5.7s
+2026-02-09 21:07:12 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 6: Found 24 files (24 new)
+2026-02-09 21:07:12 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:12 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:12 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_6_20260209_210712.json
+2026-02-09 21:07:12 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:12 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:12 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 14.9s...
+2026-02-09 21:07:27 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 7/9 (7)
+2026-02-09 21:07:27 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:07:27 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 7
+2026-02-09 21:07:27 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:07:27 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 7
+2026-02-09 21:07:27 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 3.3s
+2026-02-09 21:07:30 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 7: Found 34 files (34 new)
+2026-02-09 21:07:30 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:30 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:30 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_7_20260209_210730.json
+2026-02-09 21:07:30 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:30 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:30 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 14.5s...
+2026-02-09 21:07:45 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 8/9 (8)
+2026-02-09 21:07:45 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:07:45 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 8
+2026-02-09 21:07:45 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:07:45 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 8
+2026-02-09 21:07:45 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 5.2s
+2026-02-09 21:07:50 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 8: Found 98 files (98 new)
+2026-02-09 21:07:50 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:50 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:50 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_8_20260209_210750.json
+2026-02-09 21:07:50 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:07:50 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:07:50 [INFO    ] EpsteinArchiver:702 - ⏸️ Respectful pause: 14.2s...
+2026-02-09 21:08:04 [INFO    ] EpsteinArchiver:694 - 
+🎯 Progress: Dataset 9/9 (9)
+2026-02-09 21:08:04 [INFO    ] EpsteinArchiver:587 - 
+============================================================
+2026-02-09 21:08:04 [INFO    ] EpsteinArchiver:588 - 📂 PROCESSING DATASET 9
+2026-02-09 21:08:04 [INFO    ] EpsteinArchiver:589 - ============================================================
+2026-02-09 21:08:04 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering Dataset 9
+2026-02-09 21:08:04 [DEBUG   ] EpsteinArchiver:267 - ⏳ Respectful delay: 7.6s
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:402 - ✅ Dataset 9: Found 100 files (100 new)
+2026-02-09 21:08:12 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:08:12 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:08:12 [DEBUG   ] EpsteinArchiver:670 - 💾 Metadata saved: /data/downloads/metadata/dataset_9_20260209_210812.json
+2026-02-09 21:08:12 [DEBUG   ] EpsteinArchiver:252 - 💾 Created cache backup
+2026-02-09 21:08:12 [ERROR   ] EpsteinArchiver:262 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:722 - 
+======================================================================
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:723 - 📊 ARCHIVAL SUMMARY
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:724 - ======================================================================
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:725 - 📁 Datasets processed: 9
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:726 - 📄 Total files discovered: 748
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:727 - ✅ Successfully downloaded: 0
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:728 - 📁 Already existed (skipped): 0
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:729 - ❌ Failed downloads: 0
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:737 - ⏱️ Total duration: 176.6 seconds (2.9 minutes)
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:739 - 📂 Files location: /data/downloads/raw/dataset[1-9]/
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:740 - 💾 Cache location: /data/downloads/cache/archive_cache.json
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:741 - ======================================================================
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:742 - 🎉 Archival session completed!
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:743 - ======================================================================
+2026-02-09 21:08:12 [INFO    ] EpsteinArchiver:783 - 💾 Final summary saved: /data/downloads/metadata/summary_20260209_210812.json
+2026-02-09 22:11:58 [WARNING ] EpsteinArchiver:212 - ⚠️ Cache corrupted: Expecting value: line 12 column 17 (char 443)
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:163 - 🚀 Unlimited Epstein Archiver Initialized
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:164 - 📁 No dataset or page limits - will discover everything available
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:652 - ======================================================================
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:653 - 🚀 UNLIMITED EPSTEIN DOCUMENT ARCHIVER
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:654 - ======================================================================
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:655 - 📊 Mode: COMPLETE DISCOVERY - NO LIMITS
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:656 -    • Starting from dataset: 1
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:657 -    • Download: True
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:658 - ======================================================================
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:315 - 🔍 Starting automatic dataset discovery from 1
+2026-02-09 22:11:58 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 1...
+2026-02-09 22:12:03 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 1 exists
+2026-02-09 22:12:03 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 2...
+2026-02-09 22:12:07 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 2 exists
+2026-02-09 22:12:07 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 3...
+2026-02-09 22:12:10 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 3 exists
+2026-02-09 22:12:10 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 4...
+2026-02-09 22:12:13 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 4 exists
+2026-02-09 22:12:13 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 5...
+2026-02-09 22:12:17 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 5 exists
+2026-02-09 22:12:17 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 6...
+2026-02-09 22:12:20 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 6 exists
+2026-02-09 22:12:20 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 7...
+2026-02-09 22:12:23 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 7 exists
+2026-02-09 22:12:23 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 8...
+2026-02-09 22:12:28 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 8 exists
+2026-02-09 22:12:28 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 9...
+2026-02-09 22:12:30 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 9 exists
+2026-02-09 22:12:30 [DEBUG   ] EpsteinArchiver:227 - 💾 Cache saved
+2026-02-09 22:12:30 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 10...
+2026-02-09 22:12:33 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 10 exists
+2026-02-09 22:12:33 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 11...
+2026-02-09 22:12:36 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 11 exists
+2026-02-09 22:12:36 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 12...
+2026-02-09 22:12:40 [INFO    ] EpsteinArchiver:333 -     ✅ Dataset 12 exists
+2026-02-09 22:12:40 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 13...
+2026-02-09 22:12:44 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-13-files
+2026-02-09 22:12:44 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 13: Access blocked
+2026-02-09 22:12:44 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 14...
+2026-02-09 22:12:47 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-14-files
+2026-02-09 22:12:47 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 14: Access blocked
+2026-02-09 22:12:47 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 15...
+2026-02-09 22:12:54 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-15-files
+2026-02-09 22:12:54 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 15: Access blocked
+2026-02-09 22:12:54 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 16...
+2026-02-09 22:12:57 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-16-files
+2026-02-09 22:12:57 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 16: Access blocked
+2026-02-09 22:12:57 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 17...
+2026-02-09 22:13:02 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-17-files
+2026-02-09 22:13:02 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 17: Access blocked
+2026-02-09 22:13:02 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 18...
+2026-02-09 22:13:07 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-18-files
+2026-02-09 22:13:07 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 18: Access blocked
+2026-02-09 22:13:07 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 19...
+2026-02-09 22:13:12 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-19-files
+2026-02-09 22:13:12 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 19: Access blocked
+2026-02-09 22:13:12 [DEBUG   ] EpsteinArchiver:227 - 💾 Cache saved
+2026-02-09 22:13:12 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 20...
+2026-02-09 22:13:16 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-20-files
+2026-02-09 22:13:16 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 20: Access blocked
+2026-02-09 22:13:16 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 21...
+2026-02-09 22:13:20 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-21-files
+2026-02-09 22:13:20 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 21: Access blocked
+2026-02-09 22:13:20 [INFO    ] EpsteinArchiver:324 -   Testing Dataset 22...
+2026-02-09 22:13:23 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-22-files
+2026-02-09 22:13:23 [WARNING ] EpsteinArchiver:330 -     ⏹️ Dataset 22: Access blocked
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:357 - ✅ Dataset discovery complete: Found 12 datasets
+2026-02-09 22:13:23 [DEBUG   ] EpsteinArchiver:227 - 💾 Cache saved
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:663 - 
+🎯 Found 12 datasets to process
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:670 - 
+🎯 Progress: Dataset 1/12 (1)
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:567 - 
+============================================================
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:568 - 📂 PROCESSING DATASET 1 (ALL PAGES)
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:569 - ============================================================
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:367 - 🔍 Discovering ALL pages for Dataset 1
+2026-02-09 22:13:23 [INFO    ] EpsteinArchiver:382 -   📄 Page 0
+2026-02-09 22:13:28 [INFO    ] EpsteinArchiver:404 -     ✅ Found 50 files
+2026-02-09 22:13:28 [INFO    ] EpsteinArchiver:382 -   📄 Page 1
+2026-02-09 22:13:32 [WARNING ] EpsteinArchiver:249 - 🔒 Access blocked (403) at https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=1
+2026-02-09 22:13:32 [WARNING ] EpsteinArchiver:388 -     🔒 Access blocked at page 1. Stopping.
+2026-02-09 22:13:32 [INFO    ] EpsteinArchiver:441 - ✅ Dataset 1: 50 unique files (50 new) across 1 pages
+2026-02-09 22:13:32 [ERROR   ] EpsteinArchiver:230 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 22:13:32 [INFO    ] EpsteinArchiver:595 - 💾 Downloading 50 files...
+2026-02-09 22:13:32 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 1/50 - EFTA00000001.pdf
+2026-02-09 22:13:32 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000001.pdf
+2026-02-09 22:13:37 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000001.pdf (373,984 bytes)
+2026-02-09 22:13:38 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 2/50 - EFTA00000002.pdf
+2026-02-09 22:13:38 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000002.pdf
+2026-02-09 22:13:42 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000002.pdf (575,611 bytes)
+2026-02-09 22:13:44 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 3/50 - EFTA00000003.pdf
+2026-02-09 22:13:44 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000003.pdf
+2026-02-09 22:13:47 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000003.pdf (616,136 bytes)
+2026-02-09 22:13:48 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 4/50 - EFTA00000004.pdf
+2026-02-09 22:13:48 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000004.pdf
+2026-02-09 22:13:50 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000004.pdf (659,859 bytes)
+2026-02-09 22:13:53 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 5/50 - EFTA00000005.pdf
+2026-02-09 22:13:53 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000005.pdf
+2026-02-09 22:13:58 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000005.pdf (647,068 bytes)
+2026-02-09 22:14:01 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 6/50 - EFTA00000006.pdf
+2026-02-09 22:14:01 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000006.pdf
+2026-02-09 22:14:03 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000006.pdf (690,520 bytes)
+2026-02-09 22:14:06 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 7/50 - EFTA00000007.pdf
+2026-02-09 22:14:06 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000007.pdf
+2026-02-09 22:14:09 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000007.pdf (661,535 bytes)
+2026-02-09 22:14:10 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 8/50 - EFTA00000008.pdf
+2026-02-09 22:14:10 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000008.pdf
+2026-02-09 22:14:15 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000008.pdf (455,162 bytes)
+2026-02-09 22:14:17 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 9/50 - EFTA00000009.pdf
+2026-02-09 22:14:17 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000009.pdf
+2026-02-09 22:14:19 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000009.pdf (464,628 bytes)
+2026-02-09 22:14:21 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 10/50 - EFTA00000010.pdf
+2026-02-09 22:14:21 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000010.pdf
+2026-02-09 22:14:24 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000010.pdf (475,834 bytes)
+2026-02-09 22:14:24 [ERROR   ] EpsteinArchiver:230 - ❌ Failed to save cache: Object of type DownloadStatus is not JSON serializable
+2026-02-09 22:14:27 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 11/50 - EFTA00000011.pdf
+2026-02-09 22:14:27 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000011.pdf
+2026-02-09 22:14:29 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000011.pdf (417,957 bytes)
+2026-02-09 22:14:31 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 12/50 - EFTA00000012.pdf
+2026-02-09 22:14:31 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000012.pdf
+2026-02-09 22:14:34 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000012.pdf (421,645 bytes)
+2026-02-09 22:14:36 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 13/50 - EFTA00000013.pdf
+2026-02-09 22:14:36 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000013.pdf
+2026-02-09 22:14:39 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000013.pdf (455,155 bytes)
+2026-02-09 22:14:40 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 14/50 - EFTA00000014.pdf
+2026-02-09 22:14:40 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000014.pdf
+2026-02-09 22:14:43 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000014.pdf (444,392 bytes)
+2026-02-09 22:14:45 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 15/50 - EFTA00000015.pdf
+2026-02-09 22:14:45 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000015.pdf
+2026-02-09 22:14:49 [INFO    ] EpsteinArchiver:552 - ✅ Downloaded: EFTA00000015.pdf (357,459 bytes)
+2026-02-09 22:14:51 [INFO    ] EpsteinArchiver:598 - 📦 Progress: 16/50 - EFTA00000016.pdf
+2026-02-09 22:14:51 [INFO    ] EpsteinArchiver:498 - ⬇️ Downloading [1]: EFTA00000016.pdf
+2026-02-09 22:15:50 [WARNING ] EpsteinArchiver:212 - ⚠️ Cache corrupted: Expecting value: line 12 column 17 (char 467)
+2026-02-09 22:15:50 [INFO    ] EpsteinArchiver:163 - 🚀 Unlimited Epstein Archiver Initialized
+2026-02-09 22:15:50 [INFO    ] EpsteinArchiver:164 - 📁 No dataset or page limits - will discover everything available
+2026-02-09 22:15:53 [INFO    ] EpsteinArchiver:779 - 🧹 Starting COMPLETE cleanup of ALL dataset directories...
+2026-02-09 22:15:53 [INFO    ] EpsteinArchiver:790 - 🧹 Cleaning /data/downloads/raw/dataset1
+2026-02-09 22:15:53 [DEBUG   ] EpsteinArchiver:227 - 💾 Cache saved
+2026-02-09 22:15:53 [INFO    ] EpsteinArchiver:826 - 📊 Cleanup complete: 1 directories, 15 files, 0.01 GB freed

@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-02-09T01:13:34.987435",
+  "parameters": {
+    "datasets": [
+      1,
+      2
+    ],
+    "selection_type": "random",
+    "file_count": 30,
+    "force": false
+  },
+  "results": {
+    "successful": 26,
+    "failed": 2,
+    "skipped": 2,
+    "total_size_bytes": 11020952,
+    "files": [
+      {
+        "filename": "EFTA00000459.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000459.pdf",
+        "dataset": 1,
+        "size_bytes": 480332
+      },
+      {
+        "filename": "EFTA00002491.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00002491.pdf",
+        "dataset": 1,
+        "size_bytes": 393923
+      },
+      {
+        "filename": "EFTA00000953.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000953.pdf",
+        "dataset": 1,
+        "size_bytes": 449956
+      },
+      {
+        "filename": "EFTA00000281.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000281.pdf",
+        "dataset": 1,
+        "size_bytes": 383951
+      },
+      {
+        "filename": "EFTA00003831.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003831.pdf",
+        "dataset": 1,
+        "size_bytes": 371105
+      },
+      {
+        "filename": "EFTA00000612.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000612.pdf",
+        "dataset": 1,
+        "size_bytes": 362357
+      },
+      {
+        "filename": "EFTA00003855.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003855.pdf",
+        "dataset": 1,
+        "size_bytes": 128857
+      },
+      {
+        "filename": "EFTA00001657.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001657.pdf",
+        "dataset": 1,
+        "size_bytes": 355896
+      },
+      {
+        "filename": "EFTA00000192.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000192.pdf",
+        "dataset": 1,
+        "size_bytes": 500480
+      },
+      {
+        "filename": "EFTA00000349.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000349.pdf",
+        "dataset": 1,
+        "size_bytes": 415293
+      },
+      {
+        "filename": "EFTA00001148.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001148.pdf",
+        "dataset": 1,
+        "size_bytes": 320549
+      },
+      {
+        "filename": "EFTA00003595.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003595.pdf",
+        "dataset": 1,
+        "size_bytes": 348645
+      },
+      {
+        "filename": "EFTA00001851.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001851.pdf",
+        "dataset": 1,
+        "size_bytes": 337932
+      },
+      {
+        "filename": "EFTA00000795.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000795.pdf",
+        "dataset": 1,
+        "size_bytes": 406594
+      },
+      {
+        "filename": "EFTA00000885.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000885.pdf",
+        "dataset": 1,
+        "size_bytes": 404971
+      },
+      {
+        "filename": "EFTA00002122.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00002122.pdf",
+        "dataset": 1,
+        "size_bytes": 379435
+      },
+      {
+        "filename": "EFTA00001937.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001937.pdf",
+        "dataset": 1,
+        "size_bytes": 407190
+      },
+      {
+        "filename": "EFTA00000288.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000288.pdf",
+        "dataset": 1,
+        "size_bytes": 365327
+      },
+      {
+        "filename": "EFTA00000499.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000499.pdf",
+        "dataset": 1,
+        "size_bytes": 456098
+      },
+      {
+        "filename": "EFTA00003358.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003358.pdf",
+        "dataset": 1,
+        "size_bytes": 580081
+      },
+      {
+        "filename": "EFTA00000283.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000283.pdf",
+        "dataset": 1,
+        "size_bytes": 389720
+      },
+      {
+        "filename": "EFTA00001385.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001385.pdf",
+        "dataset": 1,
+        "size_bytes": 368514
+      },
+      {
+        "filename": "EFTA00003844.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003844.pdf",
+        "dataset": 1,
+        "size_bytes": 141644
+      },
+      {
+        "filename": "EFTA00001440.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00001440.pdf",
+        "dataset": 1,
+        "size_bytes": 473223
+      },
+      {
+        "filename": "EFTA00003837.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00003837.pdf",
+        "dataset": 1,
+        "size_bytes": 1351576
+      },
+      {
+        "filename": "EFTA00000425.pdf",
+        "path": "/data/downloads/raw/pdf/EFTA00000425.pdf",
+        "dataset": 1,
+        "size_bytes": 447303
+      }
+    ],
+    "start_time": 1770599525.5573359,
+    "end_time": 1770599614.9874282,
+    "duration_seconds": 89.43009233474731
+  },
+  "stats": {
+    "pdf_count": 55,
+    "image_count": 0,
+    "total_files": 55,
+    "total_size_bytes": 24603615,
+    "total_size_mb": 23.46383571624756,
+    "cached_files": 114
+  }
+}

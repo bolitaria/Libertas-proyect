@@ -1,0 +1,70 @@
+2026-02-09 14:57:38 [INFO    ] EpsteinFetcher - 🚀 Inicializando fetcher...
+2026-02-09 14:57:38 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 14:57:38 [INFO    ] EpsteinFetcher - 🔄 Estableciendo sesión robusta...
+2026-02-09 14:57:38 [DEBUG   ] EpsteinFetcher - 1. Visitando página raíz...
+2026-02-09 14:57:38 [DEBUG   ] EpsteinFetcher - ✅ Página raíz accesible
+2026-02-09 14:57:40 [DEBUG   ] EpsteinFetcher - 2. Visitando página Epstein principal...
+2026-02-09 14:57:40 [DEBUG   ] EpsteinFetcher - No se detectó formulario de verificación explícito
+2026-02-09 14:57:44 [DEBUG   ] EpsteinFetcher - 3. Visitando página de disclosures...
+2026-02-09 14:57:44 [DEBUG   ] EpsteinFetcher - ✅ Página de disclosures accesible
+2026-02-09 14:57:44 [DEBUG   ] EpsteinFetcher - 4. Verificando acceso a dataset...
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 🎉 SESIÓN ESTABLECIDA CORRECTAMENTE
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 📋 Cookies activas finales: {'ak_bmsc': {'value': '16F97E58E8CF67F2A53C...', 'domain': '.justice.gov', 'path': '/'}, 'justiceGovAgeVerified': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}, 'disclosures_accessed': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}}
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 🍪 Cookies configuradas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 📊 Cookies activas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE COMPLETO - SESIÓN ROBUSTA
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 5-5
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 📂 PROCESANDO DATASET 5
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 5...
+2026-02-09 14:57:44 [DEBUG   ] EpsteinFetcher - URL inicial: https://www.justice.gov/epstein/doj-disclosures/data-set-5-files
+2026-02-09 14:57:44 [INFO    ] EpsteinFetcher -   Página 1: 49 archivos nuevos
+2026-02-09 14:57:45 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2 (intento 1)
+2026-02-09 14:57:45 [DEBUG   ] EpsteinFetcher -   Reintento 2 para https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2, esperando 3.6s
+2026-02-09 14:57:49 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2 (intento 2)
+2026-02-09 14:57:49 [WARNING ] EpsteinFetcher -   Página 2: No se pudo acceder
+2026-02-09 14:57:51 [DEBUG   ] EpsteinFetcher - 🔄 Refrescando sesión (1/5)
+2026-02-09 14:57:55 [DEBUG   ] EpsteinFetcher - ✅ Sesión refrescada
+2026-02-09 14:57:55 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=3 (intento 1)
+2026-02-09 14:57:55 [DEBUG   ] EpsteinFetcher - 🔄 Refrescando sesión (2/5)
+2026-02-09 14:58:00 [DEBUG   ] EpsteinFetcher - ✅ Sesión refrescada
+2026-02-09 14:58:00 [DEBUG   ] EpsteinFetcher -   Reintento 2 para https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=3, esperando 4.0s
+2026-02-09 14:58:04 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=3 (intento 2)
+2026-02-09 14:58:04 [WARNING ] EpsteinFetcher -   Página 3: No se pudo acceder
+2026-02-09 14:58:07 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 14:58:16 [INFO    ] EpsteinFetcher - ✅ Dataset 5: 49 archivos válidos de 49 encontrados
+2026-02-09 14:58:16 [INFO    ] EpsteinFetcher - 
+📊 Descubrimiento completado: 49 archivos en 1 datasets
+2026-02-09 14:58:16 [ERROR   ] EpsteinFetcher - ❌ Error fatal en pipeline: Object of type datetime is not JSON serializable
+Traceback (most recent call last):
+  File "/app/main_v3.py", line 1200, in main
+    results = fetcher.run_pipeline(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 996, in run_pipeline
+    all_files = self.discover_all_datasets(start_dataset, end_dataset)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/main_v3.py", line 952, in discover_all_datasets
+    self._save_discovery_metadata(all_files)
+  File "/app/main_v3.py", line 978, in _save_discovery_metadata
+    json.dump(metadata, f, indent=2, ensure_ascii=False)
+  File "/usr/local/lib/python3.12/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "/usr/local/lib/python3.12/json/encoder.py", line 432, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/local/lib/python3.12/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/lib/python3.12/json/encoder.py", line 406, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/lib/python3.12/json/encoder.py", line 439, in _iterencode
+    o = _default(o)
+        ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/json/encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type datetime is not JSON serializable

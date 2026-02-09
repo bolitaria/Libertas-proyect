@@ -1,0 +1,25 @@
+sources:
+  - name: "DOJ Epstein Documents"
+    base_url: "https://www.justice.gov/opa/press-releases"
+    selectors:
+      document_links: "table.views-table tbody tr td.views-field-title a"
+      next_page: "li.pager-next a"
+    filters:
+      keywords:
+        - "Epstein"
+        - "Ghislaine Maxwell"
+        - "Jeffrey Epstein"
+        - "sex trafficking"
+        - "conspiracy"
+      date_range:
+        start: "2015-01-01"
+        end: "2023-12-31"
+    download:
+      format: "pdf"
+      max_size_mb: 50
+      timeout_seconds: 300
+    respect_robots_txt: true
+    user_agent: "LibertasResearchBot/1.0 (+https://libertas-project.org)"
+    rate_limit:
+      requests_per_minute: 30
+      delay_between_requests: 3.0

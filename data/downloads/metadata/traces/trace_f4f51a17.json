@@ -1,0 +1,57 @@
+{
+  "operation_id": "f4f51a17",
+  "operation_type": "fetch_download_exhaustive",
+  "datasets": [
+    13,
+    16
+  ],
+  "start_time": "2026-02-09T02:40:16.807853",
+  "end_time": null,
+  "duration_seconds": 0.0,
+  "status": "failed",
+  "phase": "discovery",
+  "metrics": {
+    "discovery": {
+      "start_time": "2026-02-09T02:40:16.808050",
+      "datasets_requested": [
+        13,
+        16
+      ],
+      "datasets_explored": 2,
+      "files_discovered": 0,
+      "pages_processed": 0,
+      "errors_encountered": 2,
+      "datasets_stats": {
+        "13": {
+          "files_found": 0,
+          "pages_processed": 0,
+          "duration_seconds": 0.79
+        },
+        "16": {
+          "files_found": 0,
+          "pages_processed": 0,
+          "duration_seconds": 0.75
+        }
+      },
+      "end_time": "2026-02-09T02:40:19.343664"
+    },
+    "failure_reason": "no_files_discovered"
+  },
+  "phase_metrics": {},
+  "errors": [],
+  "warnings": [
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 13 page 1",
+      "timestamp": "2026-02-09T02:40:17.593586",
+      "phase": "discovery"
+    },
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 16 page 1",
+      "timestamp": "2026-02-09T02:40:19.343265",
+      "phase": "discovery"
+    }
+  ],
+  "recovery_actions": []
+}

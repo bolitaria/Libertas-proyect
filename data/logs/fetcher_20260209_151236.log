@@ -1,0 +1,25 @@
+2026-02-09 15:12:36 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - ✅ Sesión establecida correctamente
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 5-5
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 📂 DATASET 5
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 5...
+2026-02-09 15:12:37 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:12:38 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2
+2026-02-09 15:12:38 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:12:40 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=3
+2026-02-09 15:12:40 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:12:41 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:12:49 [INFO    ] EpsteinFetcher - ✅ Dataset 5: 49 válidos de 49 encontrados
+2026-02-09 15:12:49 [INFO    ] EpsteinFetcher - 
+📊 Total: 49 archivos en 1 datasets
+2026-02-09 15:12:49 [INFO    ] EpsteinFetcher - 💾 Metadata guardada: /data/downloads/metadata/discovery_20260209_151249.json
+2026-02-09 15:12:49 [INFO    ] EpsteinFetcher - 🎯 Total archivos encontrados: 49
+2026-02-09 15:12:49 [INFO    ] EpsteinFetcher - ⏹️  Modo solo descubrimiento - finalizando

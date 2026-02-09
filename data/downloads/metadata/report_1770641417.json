@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-02-09T13:50:17.374941",
+  "parameters": {
+    "start_dataset": 5,
+    "end_dataset": 9,
+    "datasets": null,
+    "workers": 15,
+    "discover_only": false,
+    "stats": false,
+    "force": false
+  },
+  "discovery_stats": {
+    "5": 69,
+    "6": 13,
+    "7": 17,
+    "8": 497,
+    "9": 500
+  },
+  "download_results": {
+    "successful": 1096,
+    "failed": 0,
+    "skipped": 0,
+    "total_size": 1776520968,
+    "failed_files": [],
+    "start_time": "2026-02-09T13:49:42.079306",
+    "end_time": "2026-02-09T13:50:17.360299",
+    "failed_urls": []
+  },
+  "final_stats": {
+    "pdf_count": 1096,
+    "image_count": 0,
+    "total_files": 1096,
+    "total_size_bytes": 1776520968,
+    "total_size_mb": 1694.2224197387695,
+    "cached_files": 1096,
+    "download_dir": "/home/bolitaria/libertas-project/data/downloads"
+  }
+}

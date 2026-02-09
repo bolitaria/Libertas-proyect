@@ -1,0 +1,64 @@
+network:
+  node_id: "libertas_node_${HOSTNAME}"
+  port: 6881
+  max_peers: 50
+  max_upload_speed: 1048576  # 1 MB/s
+  max_download_speed: 5242880 # 5 MB/s
+  
+  trackers:
+    - "udp://tracker.opentrackr.org:1337/announce"
+    - "udp://open.tracker.cl:1337/announce"
+    - "udp://9.rarbg.com:2810/announce"
+    - "udp://exodus.desync.com:6969/announce"
+    - "http://tracker.openbittorrent.com:80/announce"
+  
+  dht_bootstrap_nodes:
+    - "router.bittorrent.com:6881"
+    - "dht.transmissionbt.com:6881"
+    - "router.utorrent.com:6881"
+    - "dht.aelitis.com:6881"
+
+sharing:
+  share_directory: "/data/p2p/shared"
+  download_directory: "/data/p2p/downloads"
+  auto_share_new: true
+  encryption: true
+  max_shared_size: 10737418240  # 10 GB
+  
+  categories:
+    - "legal_documents"
+    - "court_transcripts"
+    - "evidence"
+    - "correspondence"
+    - "financial_records"
+    - "research_papers"
+
+api:
+  enabled: true
+  host: "0.0.0.0"
+  port: 6882
+  cors_origins:
+    - "http://localhost:3000"
+    - "http://localhost:8000"
+
+redis:
+  enabled: true
+  key_prefix: "libertas:p2p"
+  ttl_hours: 24
+
+logging:
+  level: "INFO"
+  file: "/var/log/p2p_node.log"
+  max_size_mb: 100
+  backup_count: 5
+
+monitoring:
+  enabled: true
+  update_interval_seconds: 30
+  metrics:
+    - "active_torrents"
+    - "active_peers"
+    - "upload_rate"
+    - "download_rate"
+    - "shared_files"
+    - "downloaded_files"

@@ -1,0 +1,51 @@
+2026-02-09 15:13:43 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - ✅ Sesión establecida correctamente
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 1-3
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 📂 DATASET 1
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 1...
+2026-02-09 15:13:44 [INFO    ] EpsteinFetcher -   Página 1: 50 nuevos
+2026-02-09 15:13:46 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=2
+2026-02-09 15:13:46 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:13:47 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=3
+2026-02-09 15:13:47 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:13:48 [INFO    ] EpsteinFetcher -   🔍 Validando 50 archivos...
+2026-02-09 15:13:57 [INFO    ] EpsteinFetcher - ✅ Dataset 1: 50 válidos de 50 encontrados
+2026-02-09 15:13:57 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 3.3s...
+2026-02-09 15:14:00 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:14:00 [INFO    ] EpsteinFetcher - 📂 DATASET 2
+2026-02-09 15:14:00 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:14:00 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 2...
+2026-02-09 15:14:00 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:14:01 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-2-files?page=2
+2026-02-09 15:14:01 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:14:02 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-2-files?page=3
+2026-02-09 15:14:02 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:14:03 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:14:12 [INFO    ] EpsteinFetcher - ✅ Dataset 2: 49 válidos de 49 encontrados
+2026-02-09 15:14:12 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 3.4s...
+2026-02-09 15:14:15 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:14:15 [INFO    ] EpsteinFetcher - 📂 DATASET 3
+2026-02-09 15:14:15 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:14:15 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 3...
+2026-02-09 15:14:16 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:14:17 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-3-files?page=2
+2026-02-09 15:14:17 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:14:18 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-3-files?page=3
+2026-02-09 15:14:18 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:14:19 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:14:28 [INFO    ] EpsteinFetcher - ✅ Dataset 3: 49 válidos de 49 encontrados
+2026-02-09 15:14:28 [INFO    ] EpsteinFetcher - 
+📊 Total: 148 archivos en 3 datasets
+2026-02-09 15:14:28 [INFO    ] EpsteinFetcher - 💾 Metadata guardada: /data/downloads/metadata/discovery_20260209_151428.json
+2026-02-09 15:14:28 [INFO    ] EpsteinFetcher - 🎯 Total archivos encontrados: 148
+2026-02-09 15:14:28 [INFO    ] EpsteinFetcher - ⏹️  Modo solo descubrimiento - finalizando

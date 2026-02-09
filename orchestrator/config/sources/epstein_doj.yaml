@@ -1,0 +1,30 @@
+source:
+  name: "epstein_doj"
+  display_name: "U.S. DOJ - Epstein Files"
+  type: "government_release"
+  
+  urls:
+    manifest: "https://www.justice.gov/epstein/document/manifest.json"
+    base: "https://www.justice.gov/epstein/document/"
+    robots_txt: "https://www.justice.gov/robots.txt"
+    
+  politeness:
+    delay_seconds: 3.0
+    max_concurrent: 2
+    user_agent: "LibertasResearchBot/1.0 (+https://libertas-project.org)"
+    
+  document_types:
+    - "pdf"
+    - "jpg"
+    - "png"
+    - "mp4"
+    
+  features:
+    - "redaction_validation"
+    - "duplicate_detection"
+    - "pii_screening"
+    
+  storage:
+    raw_path: "/volumes/raw/epstein"
+    processed_path: "/volumes/processed/epstein"
+    preserve_structure: true

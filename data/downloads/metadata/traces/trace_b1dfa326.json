@@ -1,0 +1,34 @@
+{
+  "operation_id": "b1dfa326",
+  "operation_type": "fetch_and_download",
+  "datasets": [
+    13,
+    16
+  ],
+  "start_time": "2026-02-09T02:34:27.826670",
+  "end_time": null,
+  "duration_seconds": 0.0,
+  "status": "failed",
+  "metrics": {
+    "discovery": {
+      "start_time": "2026-02-09T02:34:27.826832",
+      "datasets_explored": 2,
+      "files_discovered": 0,
+      "pages_processed": 0,
+      "errors_encountered": 2,
+      "end_time": "2026-02-09T02:34:31.070497"
+    }
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 13 page 1",
+      "timestamp": "2026-02-09T02:34:28.920704"
+    },
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 16 page 1",
+      "timestamp": "2026-02-09T02:34:31.070389"
+    }
+  ]
+}

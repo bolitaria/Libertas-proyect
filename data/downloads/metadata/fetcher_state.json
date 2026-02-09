@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "total_discovered": 525,
+    "total_downloaded": 0,
+    "total_failed": 525,
+    "start_time": "2026-02-09 11:58:12.250468",
+    "end_time": null
+  },
+  "metrics": {
+    "total_downloads": 525,
+    "successful_downloads": 0,
+    "failed_downloads": 0,
+    "success_rate": 0.0,
+    "total_bytes": 0,
+    "duration_seconds": 34.780615,
+    "throughput_bps": 0.0,
+    "timestamp": "2026-02-09T11:58:47.030960"
+  },
+  "cache_stats": {
+    "total_entries": 0,
+    "successful_entries": 0,
+    "total_bytes": 0,
+    "oldest_entry": null
+  },
+  "timestamp": "2026-02-09T11:58:47.030976"
+}

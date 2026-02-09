@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-02-09T02:41:43.179056",
+  "operation_id": "a0e8a2e9",
+  "results": {
+    "success": 62,
+    "failed": 0,
+    "skipped": 0,
+    "invalid": 0,
+    "total_size": 82129603,
+    "start": 1770604835.4095104,
+    "datasets_created": [
+      5,
+      6
+    ],
+    "downloads_by_dataset": {
+      "5": {
+        "success": 49,
+        "failed": 0,
+        "skipped": 0,
+        "invalid": 0
+      },
+      "6": {
+        "success": 13,
+        "failed": 0,
+        "skipped": 0,
+        "invalid": 0
+      }
+    },
+    "end": 1770604903.179039,
+    "duration": 67.76952862739563
+  },
+  "total_downloaded": 62
+}

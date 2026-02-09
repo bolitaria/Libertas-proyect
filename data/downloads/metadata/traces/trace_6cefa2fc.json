@@ -1,0 +1,34 @@
+{
+  "operation_id": "6cefa2fc",
+  "operation_type": "fetch_and_download",
+  "datasets": [
+    23,
+    56
+  ],
+  "start_time": "2026-02-09T02:33:45.410745",
+  "end_time": null,
+  "duration_seconds": 0.0,
+  "status": "failed",
+  "metrics": {
+    "discovery": {
+      "start_time": "2026-02-09T02:33:45.410903",
+      "datasets_explored": 2,
+      "files_discovered": 0,
+      "pages_processed": 0,
+      "errors_encountered": 2,
+      "end_time": "2026-02-09T02:33:48.428524"
+    }
+  },
+  "errors": [
+    {
+      "type": "http_error",
+      "message": "HTTP 403 dataset 23 page 1",
+      "timestamp": "2026-02-09T02:33:46.329768"
+    },
+    {
+      "type": "http_error",
+      "message": "HTTP 404 dataset 56 page 1",
+      "timestamp": "2026-02-09T02:33:48.428394"
+    }
+  ]
+}

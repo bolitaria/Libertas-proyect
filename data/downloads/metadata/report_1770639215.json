@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-09T12:13:35.690491",
+  "duration_seconds": 210.63,
+  "stats": {
+    "total": 525,
+    "success": 0,
+    "failed": 525,
+    "skipped": 0,
+    "total_bytes": 0
+  },
+  "throughput": {
+    "files_per_minute": 0.0,
+    "mb_per_second": 0.0
+  }
+}

@@ -1,0 +1,76 @@
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - ✅ Sesión establecida correctamente
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 1-1
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 📂 DATASET 1
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 1...
+2026-02-09 15:27:39 [INFO    ] EpsteinFetcher -   Página 1: 50 nuevos
+2026-02-09 15:27:41 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=2
+2026-02-09 15:27:41 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:27:42 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=3
+2026-02-09 15:27:42 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:27:43 [INFO    ] EpsteinFetcher -   🔍 Validando 50 archivos...
+2026-02-09 15:27:51 [INFO    ] EpsteinFetcher - ✅ Dataset 1: 50 válidos de 50 encontrados
+2026-02-09 15:27:51 [INFO    ] EpsteinFetcher - 
+📊 Total: 50 archivos en 1 datasets
+2026-02-09 15:27:51 [INFO    ] EpsteinFetcher - 💾 Metadata guardada: /data/downloads/metadata/discovery_20260209_152751.json
+2026-02-09 15:27:51 [INFO    ] EpsteinFetcher - 🎯 Total archivos encontrados: 50
+2026-02-09 15:27:51 [INFO    ] EpsteinFetcher - 
+⚡ FASE 2: Descarga de archivos
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000001.pdf (373,984 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000002.pdf (575,611 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000003.pdf (616,136 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000004.pdf (659,859 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000005.pdf (647,068 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000006.pdf (690,520 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000007.pdf (661,535 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000008.pdf (455,162 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000009.pdf (464,628 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000010.pdf (475,834 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000011.pdf (417,957 bytes)
+2026-02-09 15:27:52 [INFO    ] EpsteinFetcher - ✅ EFTA00000012.pdf (421,645 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000013.pdf (455,155 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000014.pdf (444,392 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000015.pdf (357,459 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000016.pdf (407,211 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000017.pdf (365,241 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000018.pdf (397,219 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000019.pdf (463,248 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000020.pdf (442,747 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000021.pdf (337,171 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000022.pdf (373,630 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000023.pdf (398,955 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000024.pdf (411,590 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000025.pdf (385,853 bytes)
+2026-02-09 15:27:53 [INFO    ] EpsteinFetcher - ✅ EFTA00000026.pdf (385,598 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000027.pdf (364,587 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000028.pdf (366,253 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000029.pdf (377,763 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000030.pdf (383,432 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000031.pdf (484,765 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000032.pdf (512,316 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000033.pdf (512,955 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000034.pdf (402,338 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000035.pdf (481,336 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000036.pdf (415,917 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000037.pdf (458,389 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000038.pdf (382,086 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000039.pdf (433,733 bytes)
+2026-02-09 15:27:54 [INFO    ] EpsteinFetcher - ✅ EFTA00000040.pdf (350,557 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000041.pdf (392,388 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000042.pdf (398,436 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000043.pdf (401,309 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000044.pdf (400,690 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000045.pdf (396,387 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000046.pdf (388,305 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000047.pdf (481,397 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000048.pdf (567,243 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000049.pdf (466,415 bytes)
+2026-02-09 15:27:55 [INFO    ] EpsteinFetcher - ✅ EFTA00000050.pdf (496,612 bytes)

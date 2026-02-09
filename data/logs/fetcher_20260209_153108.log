@@ -1,0 +1,274 @@
+2026-02-09 15:31:08 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1146 entradas
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - ✅ Sesión establecida correctamente
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 1-5
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 📂 DATASET 1
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 1...
+2026-02-09 15:31:09 [INFO    ] EpsteinFetcher -   Página 1: 50 nuevos
+2026-02-09 15:31:10 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=2
+2026-02-09 15:31:10 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:31:11 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-1-files?page=3
+2026-02-09 15:31:11 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:31:12 [INFO    ] EpsteinFetcher -   🔍 Validando 50 archivos...
+2026-02-09 15:31:12 [INFO    ] EpsteinFetcher - ✅ Dataset 1: 50 válidos de 50 encontrados
+2026-02-09 15:31:12 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 4.1s...
+2026-02-09 15:31:16 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:31:16 [INFO    ] EpsteinFetcher - 📂 DATASET 2
+2026-02-09 15:31:16 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:31:16 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 2...
+2026-02-09 15:31:16 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:31:18 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-2-files?page=2
+2026-02-09 15:31:18 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:31:19 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-2-files?page=3
+2026-02-09 15:31:19 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:31:20 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:31:29 [INFO    ] EpsteinFetcher - ✅ Dataset 2: 49 válidos de 49 encontrados
+2026-02-09 15:31:29 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 3.2s...
+2026-02-09 15:31:32 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:31:32 [INFO    ] EpsteinFetcher - 📂 DATASET 3
+2026-02-09 15:31:32 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:31:32 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 3...
+2026-02-09 15:31:32 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:31:34 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-3-files?page=2
+2026-02-09 15:31:34 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:31:35 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-3-files?page=3
+2026-02-09 15:31:35 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:31:36 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:31:45 [INFO    ] EpsteinFetcher - ✅ Dataset 3: 49 válidos de 49 encontrados
+2026-02-09 15:31:45 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 4.8s...
+2026-02-09 15:31:49 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:31:49 [INFO    ] EpsteinFetcher - 📂 DATASET 4
+2026-02-09 15:31:49 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:31:49 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 4...
+2026-02-09 15:31:49 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:31:51 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-4-files?page=2
+2026-02-09 15:31:51 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:31:52 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-4-files?page=3
+2026-02-09 15:31:52 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:31:53 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:32:02 [INFO    ] EpsteinFetcher - ✅ Dataset 4: 49 válidos de 49 encontrados
+2026-02-09 15:32:02 [INFO    ] EpsteinFetcher - ⏸️  Pausa de 3.0s...
+2026-02-09 15:32:05 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:32:05 [INFO    ] EpsteinFetcher - 📂 DATASET 5
+2026-02-09 15:32:05 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:32:05 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 5...
+2026-02-09 15:32:05 [INFO    ] EpsteinFetcher -   Página 1: 49 nuevos
+2026-02-09 15:32:06 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=2
+2026-02-09 15:32:06 [WARNING ] EpsteinFetcher -   Página 2: No accesible
+2026-02-09 15:32:07 [WARNING ] EpsteinFetcher - HTTP 403 en https://www.justice.gov/epstein/doj-disclosures/data-set-5-files?page=3
+2026-02-09 15:32:07 [WARNING ] EpsteinFetcher -   Página 3: No accesible
+2026-02-09 15:32:08 [INFO    ] EpsteinFetcher -   🔍 Validando 49 archivos...
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ Dataset 5: 49 válidos de 49 encontrados
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - 
+📊 Total: 246 archivos en 5 datasets
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - 💾 Metadata guardada: /data/downloads/metadata/discovery_20260209_153217.json
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - 🎯 Total archivos encontrados: 246
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - 
+⚡ FASE 2: Descarga de archivos
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003159.pdf (320,989 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003160.pdf (289,948 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003161.pdf (385,185 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003162.pdf (319,743 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003163.pdf (353,490 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003164.pdf (371,825 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003165.pdf (286,644 bytes)
+2026-02-09 15:32:17 [INFO    ] EpsteinFetcher - ✅ EFTA00003166.pdf (289,887 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003167.pdf (313,233 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003168.pdf (282,797 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003169.pdf (290,365 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003170.pdf (288,635 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003171.pdf (299,175 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003172.pdf (327,323 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003173.pdf (300,369 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003174.pdf (320,689 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003175.pdf (277,717 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003176.pdf (275,820 bytes)
+2026-02-09 15:32:18 [INFO    ] EpsteinFetcher - ✅ EFTA00003177.pdf (306,003 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003178.pdf (323,970 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003179.pdf (420,440 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003180.pdf (228,305 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003181.pdf (396,460 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003182.pdf (262,947 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003183.pdf (342,403 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003184.pdf (298,701 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003185.pdf (275,133 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003186.pdf (285,232 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003187.pdf (289,086 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003188.pdf (334,793 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003189.pdf (282,288 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003190.pdf (291,122 bytes)
+2026-02-09 15:32:19 [INFO    ] EpsteinFetcher - ✅ EFTA00003191.pdf (304,349 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003192.pdf (257,223 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003193.pdf (244,107 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003194.pdf (336,340 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003195.pdf (322,244 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003196.pdf (277,477 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003197.pdf (243,471 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003198.pdf (278,230 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003199.pdf (288,187 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003200.pdf (363,101 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003201.pdf (325,055 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003202.pdf (285,110 bytes)
+2026-02-09 15:32:20 [INFO    ] EpsteinFetcher - ✅ EFTA00003203.pdf (356,826 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003204.pdf (264,109 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003205.pdf (286,471 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003206.pdf (285,243 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003207.pdf (360,443 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003858.pdf (1,129,921 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003862.pdf (3,258,156 bytes)
+2026-02-09 15:32:21 [INFO    ] EpsteinFetcher - ✅ EFTA00003868.pdf (16,389,783 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003919.pdf (554,354 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003921.pdf (633,456 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003923.pdf (698,274 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003925.pdf (586,685 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003927.pdf (669,829 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003929.pdf (635,648 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003931.pdf (670,593 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003933.pdf (1,205,886 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003936.pdf (1,230,877 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003939.pdf (1,138,314 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003942.pdf (1,229,953 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003945.pdf (1,134,499 bytes)
+2026-02-09 15:32:22 [INFO    ] EpsteinFetcher - ✅ EFTA00003948.pdf (1,435,686 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00003951.pdf (7,730,251 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004012.pdf (2,869,889 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004039.pdf (881,307 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004041.pdf (689,986 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004043.pdf (950,009 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004046.pdf (911,583 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004049.pdf (342,299 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004051.pdf (1,641,756 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004055.pdf (557,689 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004057.pdf (1,645,817 bytes)
+2026-02-09 15:32:23 [INFO    ] EpsteinFetcher - ✅ EFTA00004060.pdf (1,990,804 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004064.pdf (693,308 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004066.pdf (299,216 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004070.pdf (7,857,623 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004100.pdf (1,633,416 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004105.pdf (13,458,880 bytes)
+2026-02-09 15:32:24 [INFO    ] EpsteinFetcher - ✅ EFTA00004157.pdf (765,554 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004179.pdf (4,035,002 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004231.pdf (455,748 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004234.pdf (1,164,090 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004243.pdf (1,134,920 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004245.pdf (157,924 bytes)
+2026-02-09 15:32:25 [INFO    ] EpsteinFetcher - ✅ EFTA00004248.pdf (548,465 bytes)
+2026-02-09 15:32:26 [INFO    ] EpsteinFetcher - ✅ EFTA00004250.pdf (39,755,125 bytes)
+2026-02-09 15:32:27 [INFO    ] EpsteinFetcher - ✅ EFTA00004348.pdf (37,353,544 bytes)
+2026-02-09 15:32:27 [INFO    ] EpsteinFetcher - ✅ EFTA00004448.pdf (12,283,621 bytes)
+2026-02-09 15:32:28 [INFO    ] EpsteinFetcher - ✅ EFTA00004663.pdf (42,426,551 bytes)
+2026-02-09 15:32:28 [INFO    ] EpsteinFetcher - ✅ EFTA00004763.pdf (15,017,506 bytes)
+2026-02-09 15:32:29 [INFO    ] EpsteinFetcher - ✅ EFTA00004898.pdf (31,820,555 bytes)
+2026-02-09 15:32:29 [INFO    ] EpsteinFetcher - ✅ EFTA00004975.pdf (45,156,705 bytes)
+2026-02-09 15:32:30 [INFO    ] EpsteinFetcher - ✅ EFTA00005075.pdf (6,837,793 bytes)
+2026-02-09 15:32:30 [INFO    ] EpsteinFetcher - ✅ EFTA00005091.pdf (42,712,798 bytes)
+2026-02-09 15:32:31 [INFO    ] EpsteinFetcher - ✅ EFTA00005191.pdf (38,850,425 bytes)
+2026-02-09 15:32:31 [INFO    ] EpsteinFetcher - ✅ EFTA00005705.pdf (30,168 bytes)
+2026-02-09 15:32:31 [INFO    ] EpsteinFetcher - ✅ EFTA00005707.pdf (154,193 bytes)
+2026-02-09 15:32:31 [INFO    ] EpsteinFetcher - ✅ EFTA00005711.pdf (158,814 bytes)
+2026-02-09 15:32:31 [INFO    ] EpsteinFetcher - ✅ EFTA00005714.pdf (94,488 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005716.pdf (29,758 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005717.pdf (29,934 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005718.pdf (977,187 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005731.pdf (895,480 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005740.pdf (2,052,229 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005763.pdf (1,429,460 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005774.pdf (956,311 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005783.pdf (959,779 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005818.pdf (1,566,414 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005832.pdf (1,309,472 bytes)
+2026-02-09 15:32:32 [INFO    ] EpsteinFetcher - ✅ EFTA00005848.pdf (1,133,694 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005855.pdf (1,334,647 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005878.pdf (320,957 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005899.pdf (326,712 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005910.pdf (812,361 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005924.pdf (2,523,735 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005932.pdf (2,760,892 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005945.pdf (338,655 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005946.pdf (383,313 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005959.pdf (3,102,143 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005967.pdf (1,350,915 bytes)
+2026-02-09 15:32:33 [INFO    ] EpsteinFetcher - ✅ EFTA00005971.pdf (764,840 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00005994.pdf (17,226,272 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006025.pdf (4,006,210 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006036.pdf (520,616 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006039.pdf (828,652 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006043.pdf (473,015 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006049.pdf (2,175,301 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006055.pdf (6,031,865 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006066.pdf (222,803 bytes)
+2026-02-09 15:32:34 [INFO    ] EpsteinFetcher - ✅ EFTA00006069.pdf (524,643 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006072.pdf (5,129,996 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006085.pdf (741,239 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006093.pdf (604,737 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006099.pdf (38,795 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006100.pdf (422,335 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006104.pdf (525,057 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006107.pdf (805,042 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006109.pdf (463,909 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006209.pdf (463,033 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006309.pdf (254,087 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006364.pdf (136,506 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006367.pdf (262,455 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006369.pdf (212,734 bytes)
+2026-02-09 15:32:35 [INFO    ] EpsteinFetcher - ✅ EFTA00006371.pdf (229,299 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008409.pdf (535,668 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008410.pdf (583,036 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008411.pdf (634,771 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008412.pdf (448,572 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008413.pdf (603,739 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008414.pdf (588,227 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008415.pdf (481,393 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008416.pdf (573,143 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008417.pdf (511,922 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008418.pdf (579,325 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008419.pdf (516,249 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008420.pdf (589,354 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008421.pdf (497,484 bytes)
+2026-02-09 15:32:36 [INFO    ] EpsteinFetcher - ✅ EFTA00008422.pdf (584,260 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008423.pdf (476,493 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008424.pdf (616,063 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008425.pdf (528,932 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008426.pdf (508,182 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008427.pdf (597,179 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008428.pdf (477,297 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008429.pdf (586,773 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008430.pdf (474,099 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008431.pdf (582,502 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008432.pdf (480,827 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008433.pdf (566,188 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008434.pdf (460,276 bytes)
+2026-02-09 15:32:37 [INFO    ] EpsteinFetcher - ✅ EFTA00008435.pdf (553,158 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008436.pdf (470,598 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008437.pdf (607,789 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008438.pdf (506,019 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008439.pdf (596,438 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008440.pdf (534,415 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008441.pdf (620,386 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008442.pdf (508,858 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008443.pdf (622,889 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008444.pdf (512,440 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008445.pdf (618,185 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008446.pdf (512,164 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008447.pdf (613,701 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008448.pdf (521,339 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008449.pdf (474,333 bytes)
+2026-02-09 15:32:38 [INFO    ] EpsteinFetcher - ✅ EFTA00008450.pdf (511,104 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008451.pdf (587,780 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008452.pdf (432,950 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008453.pdf (590,113 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008454.pdf (447,406 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008455.pdf (625,799 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008456.pdf (426,741 bytes)
+2026-02-09 15:32:39 [INFO    ] EpsteinFetcher - ✅ EFTA00008457.pdf (580,731 bytes)

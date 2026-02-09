@@ -1,0 +1,13 @@
+model:
+  name: "epstein_document_classifier"
+  categories:
+    - "legal_documents"
+    - "court_filings"
+    - "evidence"
+    - "correspondence"
+    - "financial_records"
+  features:
+    - "named_entities"
+    - "dates"
+    - "monetary_amounts"
+    - "legal_terms"

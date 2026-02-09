@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "timestamp": "2026-02-09T13:36:39.905369",
+  "duration_seconds": 96.39,
+  "parameters": {
+    "start_dataset": 5,
+    "max_datasets": null,
+    "max_pages": null,
+    "limit": null,
+    "workers": 15,
+    "retries": 5
+  },
+  "download_stats": {
+    "total_attempted": 328,
+    "successful": 0,
+    "failed": 328,
+    "skipped": 0,
+    "total_bytes": 0,
+    "start_time": 1770640534.2490733
+  },
+  "global_stats": {
+    "total_urls_in_cache": 328,
+    "downloaded_successfully": 0,
+    "failed_downloads": 328,
+    "success_rate": 0.0,
+    "last_run": "2026-02-09T13:36:39.905124"
+  },
+  "directories": {
+    "downloads": "/home/bolitaria/libertas-project/data/downloads",
+    "metadata": "/home/bolitaria/libertas-project/data/metadata",
+    "logs": "/home/bolitaria/libertas-project/data/logs"
+  }
+}

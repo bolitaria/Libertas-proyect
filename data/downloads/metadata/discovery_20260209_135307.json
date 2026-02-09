@@ -1,0 +1,232 @@
+{
+  "discovery_time": "2026-02-09T13:53:07.856651",
+  "total_datasets": 5,
+  "total_files": 398,
+  "datasets": {
+    "5": {
+      "file_count": 69,
+      "files": [
+        {
+          "filename": "EFTA00008409.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008409.pdf"
+        },
+        {
+          "filename": "EFTA00008410.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008410.pdf"
+        },
+        {
+          "filename": "EFTA00008411.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008411.pdf"
+        },
+        {
+          "filename": "EFTA00008412.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008412.pdf"
+        },
+        {
+          "filename": "EFTA00008413.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008413.pdf"
+        },
+        {
+          "filename": "EFTA00008414.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008414.pdf"
+        },
+        {
+          "filename": "EFTA00008415.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008415.pdf"
+        },
+        {
+          "filename": "EFTA00008416.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008416.pdf"
+        },
+        {
+          "filename": "EFTA00008417.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008417.pdf"
+        },
+        {
+          "filename": "EFTA00008418.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%205/EFTA00008418.pdf"
+        }
+      ]
+    },
+    "6": {
+      "file_count": 13,
+      "files": [
+        {
+          "filename": "EFTA00008529.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008529.pdf"
+        },
+        {
+          "filename": "EFTA00008585.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008585.pdf"
+        },
+        {
+          "filename": "EFTA00008599.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008599.pdf"
+        },
+        {
+          "filename": "EFTA00008631.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008631.pdf"
+        },
+        {
+          "filename": "EFTA00008708.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008708.pdf"
+        },
+        {
+          "filename": "EFTA00008716.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008716.pdf"
+        },
+        {
+          "filename": "EFTA00008744.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008744.pdf"
+        },
+        {
+          "filename": "EFTA00008863.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008863.pdf"
+        },
+        {
+          "filename": "EFTA00008870.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008870.pdf"
+        },
+        {
+          "filename": "EFTA00008874.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%206/EFTA00008874.pdf"
+        }
+      ]
+    },
+    "7": {
+      "file_count": 17,
+      "files": [
+        {
+          "filename": "EFTA00009016.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf"
+        },
+        {
+          "filename": "EFTA00009116.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf"
+        },
+        {
+          "filename": "EFTA00009229.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009229.pdf"
+        },
+        {
+          "filename": "EFTA00009329.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009329.pdf"
+        },
+        {
+          "filename": "EFTA00009428.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009428.pdf"
+        },
+        {
+          "filename": "EFTA00009440.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009440.pdf"
+        },
+        {
+          "filename": "EFTA00009448.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009448.pdf"
+        },
+        {
+          "filename": "EFTA00009478.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009478.pdf"
+        },
+        {
+          "filename": "EFTA00009502.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009502.pdf"
+        },
+        {
+          "filename": "EFTA00009512.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%207/EFTA00009512.pdf"
+        }
+      ]
+    },
+    "8": {
+      "file_count": 149,
+      "files": [
+        {
+          "filename": "EFTA00009676.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009676.pdf"
+        },
+        {
+          "filename": "EFTA00009713.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009713.pdf"
+        },
+        {
+          "filename": "EFTA00009747.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009747.pdf"
+        },
+        {
+          "filename": "EFTA00009767.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009767.pdf"
+        },
+        {
+          "filename": "EFTA00009775.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf"
+        },
+        {
+          "filename": "EFTA00009781.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf"
+        },
+        {
+          "filename": "EFTA00009786.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf"
+        },
+        {
+          "filename": "EFTA00009791.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf"
+        },
+        {
+          "filename": "EFTA00009794.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009794.pdf"
+        },
+        {
+          "filename": "EFTA00009796.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00009796.pdf"
+        }
+      ]
+    },
+    "9": {
+      "file_count": 150,
+      "files": [
+        {
+          "filename": "EFTA00039025.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf"
+        },
+        {
+          "filename": "EFTA00039153.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039153.pdf"
+        },
+        {
+          "filename": "EFTA00039156.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039156.pdf"
+        },
+        {
+          "filename": "EFTA00039190.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039190.pdf"
+        },
+        {
+          "filename": "EFTA00039208.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039208.pdf"
+        },
+        {
+          "filename": "EFTA00039220.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039220.pdf"
+        },
+        {
+          "filename": "EFTA00039227.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039227.pdf"
+        },
+        {
+          "filename": "EFTA00039282.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039282.pdf"
+        },
+        {
+          "filename": "EFTA00039295.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039295.pdf"
+        },
+        {
+          "filename": "EFTA00039312.pdf",
+          "url": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00039312.pdf"
+        }
+      ]
+    }
+  }
+}

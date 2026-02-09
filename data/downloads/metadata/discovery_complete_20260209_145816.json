@@ -1,0 +1,11 @@
+{
+  "discovery_time": "2026-02-09T14:58:16.247318",
+  "total_datasets": 1,
+  "total_files": 49,
+  "session_stats": {
+    "requests_made": 11,
+    "successful_requests": 9,
+    "failed_requests": 0,
+    "403_errors": 4,
+    "session_refreshes": 2,
+    "start_time": 

@@ -1,0 +1,27 @@
+2026-02-09 15:08:22 [INFO    ] EpsteinFetcher - 🚀 Inicializando fetcher...
+2026-02-09 15:08:22 [INFO    ] EpsteinFetcher - 📦 Cache cargado: 1096 entradas
+2026-02-09 15:08:22 [INFO    ] EpsteinFetcher - 🔄 Estableciendo sesión robusta...
+2026-02-09 15:08:22 [DEBUG   ] EpsteinFetcher - 1. Visitando página raíz...
+2026-02-09 15:08:22 [DEBUG   ] EpsteinFetcher - ✅ Página raíz accesible
+2026-02-09 15:08:24 [DEBUG   ] EpsteinFetcher - 2. Visitando página Epstein principal...
+2026-02-09 15:08:24 [DEBUG   ] EpsteinFetcher - No se detectó formulario de verificación explícito
+2026-02-09 15:08:26 [DEBUG   ] EpsteinFetcher - 3. Visitando página de disclosures...
+2026-02-09 15:08:26 [DEBUG   ] EpsteinFetcher - ✅ Página de disclosures accesible
+2026-02-09 15:08:26 [DEBUG   ] EpsteinFetcher - 4. Verificando acceso a dataset...
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 🎉 SESIÓN ESTABLECIDA CORRECTAMENTE
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 📋 Cookies activas finales: {'ak_bmsc': {'value': '6CA691AC5F4134EF1A81...', 'domain': '.justice.gov', 'path': '/'}, 'justiceGovAgeVerified': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}, 'disclosures_accessed': {'value': 'true', 'domain': '.justice.gov', 'path': '/'}}
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 🍪 Cookies configuradas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - ✅ Fetcher inicializado. Directorio: /data/downloads
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 📊 Cookies activas: ['ak_bmsc', 'justiceGovAgeVerified', 'disclosures_accessed', 'has_js']
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 
+======================================================================
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 🚀 INICIANDO PIPELINE COMPLETO - SESIÓN ROBUSTA
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - ======================================================================
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 🔍 FASE 1: Descubriendo datasets 5-5
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 
+============================================================
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 📂 PROCESANDO DATASET 5
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - ============================================================
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher - 🔍 Explorando Dataset 5...
+2026-02-09 15:08:27 [DEBUG   ] EpsteinFetcher - URL inicial: https://www.justice.gov/epstein/doj-disclosures/data-set-5-files
+2026-02-09 15:08:27 [INFO    ] EpsteinFetcher -   Página 1: 49 archivos nuevos

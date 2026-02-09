@@ -1,0 +1,418 @@
+2026-02-09 02:26:58,726 - __main__ - INFO - [initialize_session] - ✅ Sesión HTTP inicializada
+2026-02-09 02:26:58,726 - __main__ - INFO - [_load_cache] - 📋 Cache cargado: 50 URLs
+2026-02-09 02:26:58,726 - __main__ - INFO - [__init__] - ✅ Fetcher inicializado correctamente
+2026-02-09 02:26:58,736 - __main__ - INFO - [clean_all_datasets] - 🗑️  Carpeta eliminada: dataset1 (50 elementos)
+2026-02-09 02:26:58,736 - __main__ - INFO - [clean_all_datasets] - 🗑️  Carpeta eliminada: dataset2 (0 elementos)
+2026-02-09 02:26:58,736 - __main__ - INFO - [clean_all_datasets] - 🗑️  Carpeta eliminada: images (0 elementos)
+2026-02-09 02:26:58,737 - __main__ - INFO - [clean_all_datasets] - 🗑️  Carpeta eliminada: pdf (0 elementos)
+2026-02-09 02:26:58,737 - __main__ - INFO - [_cleanup_cache] - 🗑️  Cache eliminado
+2026-02-09 02:26:58,737 - __main__ - INFO - [clean_all_datasets] - 🧹 Limpieza: 4 carpetas, 50 elementos
+2026-02-09 02:27:03,298 - __main__ - INFO - [initialize_session] - ✅ Sesión HTTP inicializada
+2026-02-09 02:27:03,298 - __main__ - INFO - [__init__] - ✅ Fetcher inicializado correctamente
+2026-02-09 02:27:03,298 - __main__ - INFO - [run] - 🚀 Iniciando: datasets=[1, 2], order=firsts, limit=100
+2026-02-09 02:27:03,298 - __main__ - INFO - [discover_files] - 🔍 Explorando dataset 1...
+2026-02-09 02:27:03,496 - __main__ - INFO - [discover_files] -    📄 Página 1: 50 archivos
+2026-02-09 02:27:03,869 - __main__ - INFO - [discover_files] -    📄 Página 2: 50 archivos
+2026-02-09 02:27:04,241 - __main__ - INFO - [discover_files] -    📄 Página 3: 50 archivos
+2026-02-09 02:27:04,613 - __main__ - INFO - [discover_files] -    📄 Página 4: 50 archivos
+2026-02-09 02:27:04,990 - __main__ - INFO - [discover_files] -    📄 Página 5: 50 archivos
+2026-02-09 02:27:05,363 - __main__ - INFO - [discover_files] -    📄 Página 6: 50 archivos
+2026-02-09 02:27:05,734 - __main__ - INFO - [discover_files] -    📄 Página 7: 50 archivos
+2026-02-09 02:27:06,107 - __main__ - INFO - [discover_files] -    📄 Página 8: 50 archivos
+2026-02-09 02:27:06,477 - __main__ - INFO - [discover_files] -    📄 Página 9: 50 archivos
+2026-02-09 02:27:06,847 - __main__ - INFO - [discover_files] -    📄 Página 10: 50 archivos
+2026-02-09 02:27:07,218 - __main__ - INFO - [discover_files] -    📄 Página 11: 50 archivos
+2026-02-09 02:27:07,587 - __main__ - INFO - [discover_files] -    📄 Página 12: 50 archivos
+2026-02-09 02:27:07,959 - __main__ - INFO - [discover_files] -    📄 Página 13: 50 archivos
+2026-02-09 02:27:08,333 - __main__ - INFO - [discover_files] -    📄 Página 14: 50 archivos
+2026-02-09 02:27:08,704 - __main__ - INFO - [discover_files] -    📄 Página 15: 50 archivos
+2026-02-09 02:27:09,074 - __main__ - INFO - [discover_files] -    📄 Página 16: 50 archivos
+2026-02-09 02:27:09,443 - __main__ - INFO - [discover_files] -    📄 Página 17: 50 archivos
+2026-02-09 02:27:09,817 - __main__ - INFO - [discover_files] -    📄 Página 18: 50 archivos
+2026-02-09 02:27:10,186 - __main__ - INFO - [discover_files] -    📄 Página 19: 50 archivos
+2026-02-09 02:27:10,558 - __main__ - INFO - [discover_files] -    📄 Página 20: 50 archivos
+2026-02-09 02:27:10,930 - __main__ - INFO - [discover_files] -    📄 Página 21: 50 archivos
+2026-02-09 02:27:11,303 - __main__ - INFO - [discover_files] -    📄 Página 22: 50 archivos
+2026-02-09 02:27:11,674 - __main__ - INFO - [discover_files] -    📄 Página 23: 50 archivos
+2026-02-09 02:27:12,045 - __main__ - INFO - [discover_files] -    📄 Página 24: 50 archivos
+2026-02-09 02:27:12,417 - __main__ - INFO - [discover_files] -    📄 Página 25: 50 archivos
+2026-02-09 02:27:12,788 - __main__ - INFO - [discover_files] -    📄 Página 26: 50 archivos
+2026-02-09 02:27:13,160 - __main__ - INFO - [discover_files] -    📄 Página 27: 50 archivos
+2026-02-09 02:27:13,536 - __main__ - INFO - [discover_files] -    📄 Página 28: 50 archivos
+2026-02-09 02:27:13,904 - __main__ - INFO - [discover_files] -    📄 Página 29: 50 archivos
+2026-02-09 02:27:14,277 - __main__ - INFO - [discover_files] -    📄 Página 30: 50 archivos
+2026-02-09 02:27:14,649 - __main__ - INFO - [discover_files] -    📄 Página 31: 50 archivos
+2026-02-09 02:27:15,020 - __main__ - INFO - [discover_files] -    📄 Página 32: 50 archivos
+2026-02-09 02:27:15,391 - __main__ - INFO - [discover_files] -    📄 Página 33: 50 archivos
+2026-02-09 02:27:15,761 - __main__ - INFO - [discover_files] -    📄 Página 34: 50 archivos
+2026-02-09 02:27:16,133 - __main__ - INFO - [discover_files] -    📄 Página 35: 50 archivos
+2026-02-09 02:27:16,506 - __main__ - INFO - [discover_files] -    📄 Página 36: 50 archivos
+2026-02-09 02:27:16,875 - __main__ - INFO - [discover_files] -    📄 Página 37: 50 archivos
+2026-02-09 02:27:17,247 - __main__ - INFO - [discover_files] -    📄 Página 38: 50 archivos
+2026-02-09 02:27:17,617 - __main__ - INFO - [discover_files] -    📄 Página 39: 50 archivos
+2026-02-09 02:27:17,989 - __main__ - INFO - [discover_files] -    📄 Página 40: 50 archivos
+2026-02-09 02:27:18,360 - __main__ - INFO - [discover_files] -    📄 Página 41: 50 archivos
+2026-02-09 02:27:18,739 - __main__ - INFO - [discover_files] -    📄 Página 42: 50 archivos
+2026-02-09 02:27:19,109 - __main__ - INFO - [discover_files] -    📄 Página 43: 50 archivos
+2026-02-09 02:27:19,481 - __main__ - INFO - [discover_files] -    📄 Página 44: 50 archivos
+2026-02-09 02:27:19,853 - __main__ - INFO - [discover_files] -    📄 Página 45: 50 archivos
+2026-02-09 02:27:20,226 - __main__ - INFO - [discover_files] -    📄 Página 46: 50 archivos
+2026-02-09 02:27:20,633 - __main__ - INFO - [discover_files] -    📄 Página 47: 50 archivos
+2026-02-09 02:27:21,007 - __main__ - INFO - [discover_files] -    📄 Página 48: 50 archivos
+2026-02-09 02:27:21,378 - __main__ - INFO - [discover_files] -    📄 Página 49: 50 archivos
+2026-02-09 02:27:21,749 - __main__ - INFO - [discover_files] -    📄 Página 50: 50 archivos
+2026-02-09 02:27:22,050 - __main__ - INFO - [discover_files] - 🔍 Explorando dataset 2...
+2026-02-09 02:27:22,122 - __main__ - INFO - [discover_files] -    📄 Página 1: 49 archivos
+2026-02-09 02:27:22,495 - __main__ - INFO - [discover_files] -    📄 Página 2: 50 archivos
+2026-02-09 02:27:22,866 - __main__ - INFO - [discover_files] -    📄 Página 3: 50 archivos
+2026-02-09 02:27:23,238 - __main__ - INFO - [discover_files] -    📄 Página 4: 50 archivos
+2026-02-09 02:27:23,610 - __main__ - INFO - [discover_files] -    📄 Página 5: 50 archivos
+2026-02-09 02:27:23,991 - __main__ - INFO - [discover_files] -    📄 Página 6: 50 archivos
+2026-02-09 02:27:24,363 - __main__ - INFO - [discover_files] -    📄 Página 7: 50 archivos
+2026-02-09 02:27:24,740 - __main__ - INFO - [discover_files] -    📄 Página 8: 50 archivos
+2026-02-09 02:27:25,112 - __main__ - INFO - [discover_files] -    📄 Página 9: 50 archivos
+2026-02-09 02:27:25,483 - __main__ - INFO - [discover_files] -    📄 Página 10: 50 archivos
+2026-02-09 02:27:25,853 - __main__ - INFO - [discover_files] -    📄 Página 11: 26 archivos
+2026-02-09 02:27:26,228 - __main__ - INFO - [discover_files] -    📄 Página 12: 25 archivos
+2026-02-09 02:27:26,600 - __main__ - INFO - [discover_files] -    📄 Página 13: 25 archivos
+2026-02-09 02:27:26,974 - __main__ - INFO - [discover_files] -    📄 Página 14: 25 archivos
+2026-02-09 02:27:27,343 - __main__ - INFO - [discover_files] -    📄 Página 15: 25 archivos
+2026-02-09 02:27:27,716 - __main__ - INFO - [discover_files] -    📄 Página 16: 25 archivos
+2026-02-09 02:27:28,087 - __main__ - INFO - [discover_files] -    📄 Página 17: 25 archivos
+2026-02-09 02:27:28,458 - __main__ - INFO - [discover_files] -    📄 Página 18: 25 archivos
+2026-02-09 02:27:28,830 - __main__ - INFO - [discover_files] -    📄 Página 19: 25 archivos
+2026-02-09 02:27:29,200 - __main__ - INFO - [discover_files] -    📄 Página 20: 26 archivos
+2026-02-09 02:27:29,573 - __main__ - INFO - [discover_files] -    📄 Página 21: 25 archivos
+2026-02-09 02:27:29,943 - __main__ - INFO - [discover_files] -    📄 Página 22: 25 archivos
+2026-02-09 02:27:30,318 - __main__ - INFO - [discover_files] -    📄 Página 23: 25 archivos
+2026-02-09 02:27:30,703 - __main__ - INFO - [discover_files] -    📄 Página 24: 25 archivos
+2026-02-09 02:27:31,076 - __main__ - INFO - [discover_files] -    📄 Página 25: 25 archivos
+2026-02-09 02:27:31,448 - __main__ - INFO - [discover_files] -    📄 Página 26: 25 archivos
+2026-02-09 02:27:31,820 - __main__ - INFO - [discover_files] -    📄 Página 27: 25 archivos
+2026-02-09 02:27:32,190 - __main__ - INFO - [discover_files] -    📄 Página 28: 25 archivos
+2026-02-09 02:27:32,559 - __main__ - INFO - [discover_files] -    📄 Página 29: 25 archivos
+2026-02-09 02:27:32,927 - __main__ - INFO - [discover_files] -    📄 Página 30: 25 archivos
+2026-02-09 02:27:33,297 - __main__ - INFO - [discover_files] -    📄 Página 31: 25 archivos
+2026-02-09 02:27:33,665 - __main__ - INFO - [discover_files] -    📄 Página 32: 25 archivos
+2026-02-09 02:27:34,034 - __main__ - INFO - [discover_files] -    📄 Página 33: 25 archivos
+2026-02-09 02:27:34,408 - __main__ - INFO - [discover_files] -    📄 Página 34: 25 archivos
+2026-02-09 02:27:34,777 - __main__ - INFO - [discover_files] -    📄 Página 35: 25 archivos
+2026-02-09 02:27:35,145 - __main__ - INFO - [discover_files] -    📄 Página 36: 25 archivos
+2026-02-09 02:27:35,534 - __main__ - INFO - [discover_files] -    📄 Página 37: 25 archivos
+2026-02-09 02:27:35,907 - __main__ - INFO - [discover_files] -    📄 Página 38: 25 archivos
+2026-02-09 02:27:36,283 - __main__ - INFO - [discover_files] -    📄 Página 39: 25 archivos
+2026-02-09 02:27:36,662 - __main__ - INFO - [discover_files] -    📄 Página 40: 25 archivos
+2026-02-09 02:27:37,031 - __main__ - INFO - [discover_files] -    📄 Página 41: 25 archivos
+2026-02-09 02:27:37,402 - __main__ - INFO - [discover_files] -    📄 Página 42: 25 archivos
+2026-02-09 02:27:37,773 - __main__ - INFO - [discover_files] -    📄 Página 43: 25 archivos
+2026-02-09 02:27:38,146 - __main__ - INFO - [discover_files] -    📄 Página 44: 25 archivos
+2026-02-09 02:27:38,515 - __main__ - INFO - [discover_files] -    📄 Página 45: 25 archivos
+2026-02-09 02:27:38,887 - __main__ - INFO - [discover_files] -    📄 Página 46: 25 archivos
+2026-02-09 02:27:39,255 - __main__ - INFO - [discover_files] -    📄 Página 47: 25 archivos
+2026-02-09 02:27:39,625 - __main__ - INFO - [discover_files] -    📄 Página 48: 25 archivos
+2026-02-09 02:27:39,993 - __main__ - INFO - [discover_files] -    📄 Página 49: 25 archivos
+2026-02-09 02:27:40,362 - __main__ - INFO - [discover_files] -    📄 Página 50: 25 archivos
+2026-02-09 02:27:40,663 - __main__ - INFO - [discover_files] - 📊 Total descubierto: 4001 archivos
+2026-02-09 02:27:40,664 - __main__ - INFO - [filter_new_files] - 🎯 Archivos nuevos: 4001/4001
+2026-02-09 02:27:40,665 - __main__ - INFO - [select_files] - 📋 Seleccionados 100 archivos (orden: firsts)
+2026-02-09 02:27:40,665 - __main__ - INFO - [run] - 📦 [1/100] EFTA00000001_dataset_1_pagina_1.pdf
+2026-02-09 02:27:40,665 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000001_dataset_1_pagina_1.pdf
+2026-02-09 02:27:41,069 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000001_dataset_1_pagina_1.pdf (365.2 KB)
+2026-02-09 02:27:42,070 - __main__ - INFO - [run] - 📦 [2/100] EFTA00000002_dataset_1_pagina_1.pdf
+2026-02-09 02:27:42,070 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000002_dataset_1_pagina_1.pdf
+2026-02-09 02:27:42,181 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000002_dataset_1_pagina_1.pdf (562.1 KB)
+2026-02-09 02:27:43,181 - __main__ - INFO - [run] - 📦 [3/100] EFTA00000003_dataset_1_pagina_1.pdf
+2026-02-09 02:27:43,182 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000003_dataset_1_pagina_1.pdf
+2026-02-09 02:27:43,263 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000003_dataset_1_pagina_1.pdf (601.7 KB)
+2026-02-09 02:27:44,264 - __main__ - INFO - [run] - 📦 [4/100] EFTA00000004_dataset_1_pagina_1.pdf
+2026-02-09 02:27:44,264 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000004_dataset_1_pagina_1.pdf
+2026-02-09 02:27:44,342 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000004_dataset_1_pagina_1.pdf (644.4 KB)
+2026-02-09 02:27:45,343 - __main__ - INFO - [run] - 📦 [5/100] EFTA00000005_dataset_1_pagina_1.pdf
+2026-02-09 02:27:45,343 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000005_dataset_1_pagina_1.pdf
+2026-02-09 02:27:45,420 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000005_dataset_1_pagina_1.pdf (631.9 KB)
+2026-02-09 02:27:46,421 - __main__ - INFO - [run] - 📦 [6/100] EFTA00000006_dataset_1_pagina_1.pdf
+2026-02-09 02:27:46,421 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000006_dataset_1_pagina_1.pdf
+2026-02-09 02:27:46,500 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000006_dataset_1_pagina_1.pdf (674.3 KB)
+2026-02-09 02:27:47,500 - __main__ - INFO - [run] - 📦 [7/100] EFTA00000007_dataset_1_pagina_1.pdf
+2026-02-09 02:27:47,501 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000007_dataset_1_pagina_1.pdf
+2026-02-09 02:27:47,581 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000007_dataset_1_pagina_1.pdf (646.0 KB)
+2026-02-09 02:27:48,582 - __main__ - INFO - [run] - 📦 [8/100] EFTA00000008_dataset_1_pagina_1.pdf
+2026-02-09 02:27:48,583 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000008_dataset_1_pagina_1.pdf
+2026-02-09 02:27:48,653 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000008_dataset_1_pagina_1.pdf (444.5 KB)
+2026-02-09 02:27:49,654 - __main__ - INFO - [run] - 📦 [9/100] EFTA00000009_dataset_1_pagina_1.pdf
+2026-02-09 02:27:49,655 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000009_dataset_1_pagina_1.pdf
+2026-02-09 02:27:49,726 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000009_dataset_1_pagina_1.pdf (453.7 KB)
+2026-02-09 02:27:50,726 - __main__ - INFO - [run] - 📦 [10/100] EFTA00000010_dataset_1_pagina_1.pdf
+2026-02-09 02:27:50,726 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000010_dataset_1_pagina_1.pdf
+2026-02-09 02:27:50,797 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000010_dataset_1_pagina_1.pdf (464.7 KB)
+2026-02-09 02:27:51,797 - __main__ - INFO - [run] - 📦 [11/100] EFTA00000011_dataset_1_pagina_1.pdf
+2026-02-09 02:27:51,798 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000011_dataset_1_pagina_1.pdf
+2026-02-09 02:27:51,868 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000011_dataset_1_pagina_1.pdf (408.2 KB)
+2026-02-09 02:27:52,868 - __main__ - INFO - [run] - 📦 [12/100] EFTA00000012_dataset_1_pagina_1.pdf
+2026-02-09 02:27:52,869 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000012_dataset_1_pagina_1.pdf
+2026-02-09 02:27:52,942 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000012_dataset_1_pagina_1.pdf (411.8 KB)
+2026-02-09 02:27:53,942 - __main__ - INFO - [run] - 📦 [13/100] EFTA00000013_dataset_1_pagina_1.pdf
+2026-02-09 02:27:53,942 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000013_dataset_1_pagina_1.pdf
+2026-02-09 02:27:54,014 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000013_dataset_1_pagina_1.pdf (444.5 KB)
+2026-02-09 02:27:55,015 - __main__ - INFO - [run] - 📦 [14/100] EFTA00000014_dataset_1_pagina_1.pdf
+2026-02-09 02:27:55,016 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000014_dataset_1_pagina_1.pdf
+2026-02-09 02:27:55,085 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000014_dataset_1_pagina_1.pdf (434.0 KB)
+2026-02-09 02:27:56,086 - __main__ - INFO - [run] - 📦 [15/100] EFTA00000015_dataset_1_pagina_1.pdf
+2026-02-09 02:27:56,086 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000015_dataset_1_pagina_1.pdf
+2026-02-09 02:27:56,153 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000015_dataset_1_pagina_1.pdf (349.1 KB)
+2026-02-09 02:27:57,153 - __main__ - INFO - [run] - 📦 [16/100] EFTA00000016_dataset_1_pagina_1.pdf
+2026-02-09 02:27:57,154 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000016_dataset_1_pagina_1.pdf
+2026-02-09 02:27:57,224 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000016_dataset_1_pagina_1.pdf (397.7 KB)
+2026-02-09 02:27:58,224 - __main__ - INFO - [run] - 📦 [17/100] EFTA00000017_dataset_1_pagina_1.pdf
+2026-02-09 02:27:58,225 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000017_dataset_1_pagina_1.pdf
+2026-02-09 02:27:58,292 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000017_dataset_1_pagina_1.pdf (356.7 KB)
+2026-02-09 02:27:59,293 - __main__ - INFO - [run] - 📦 [18/100] EFTA00000018_dataset_1_pagina_1.pdf
+2026-02-09 02:27:59,293 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000018_dataset_1_pagina_1.pdf
+2026-02-09 02:27:59,362 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000018_dataset_1_pagina_1.pdf (387.9 KB)
+2026-02-09 02:28:00,362 - __main__ - INFO - [run] - 📦 [19/100] EFTA00000019_dataset_1_pagina_1.pdf
+2026-02-09 02:28:00,363 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000019_dataset_1_pagina_1.pdf
+2026-02-09 02:28:00,440 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000019_dataset_1_pagina_1.pdf (452.4 KB)
+2026-02-09 02:28:01,440 - __main__ - INFO - [run] - 📦 [20/100] EFTA00000020_dataset_1_pagina_1.pdf
+2026-02-09 02:28:01,441 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000020_dataset_1_pagina_1.pdf
+2026-02-09 02:28:01,515 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000020_dataset_1_pagina_1.pdf (432.4 KB)
+2026-02-09 02:28:02,516 - __main__ - INFO - [run] - 📦 [21/100] EFTA00000021_dataset_1_pagina_1.pdf
+2026-02-09 02:28:02,516 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000021_dataset_1_pagina_1.pdf
+2026-02-09 02:28:02,585 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000021_dataset_1_pagina_1.pdf (329.3 KB)
+2026-02-09 02:28:03,585 - __main__ - INFO - [run] - 📦 [22/100] EFTA00000022_dataset_1_pagina_1.pdf
+2026-02-09 02:28:03,586 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000022_dataset_1_pagina_1.pdf
+2026-02-09 02:28:03,654 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000022_dataset_1_pagina_1.pdf (364.9 KB)
+2026-02-09 02:28:04,654 - __main__ - INFO - [run] - 📦 [23/100] EFTA00000023_dataset_1_pagina_1.pdf
+2026-02-09 02:28:04,655 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000023_dataset_1_pagina_1.pdf
+2026-02-09 02:28:04,722 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000023_dataset_1_pagina_1.pdf (389.6 KB)
+2026-02-09 02:28:05,723 - __main__ - INFO - [run] - 📦 [24/100] EFTA00000024_dataset_1_pagina_1.pdf
+2026-02-09 02:28:05,723 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000024_dataset_1_pagina_1.pdf
+2026-02-09 02:28:05,793 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000024_dataset_1_pagina_1.pdf (401.9 KB)
+2026-02-09 02:28:06,793 - __main__ - INFO - [run] - 📦 [25/100] EFTA00000025_dataset_1_pagina_1.pdf
+2026-02-09 02:28:06,794 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000025_dataset_1_pagina_1.pdf
+2026-02-09 02:28:06,862 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000025_dataset_1_pagina_1.pdf (376.8 KB)
+2026-02-09 02:28:07,863 - __main__ - INFO - [run] - 📦 [26/100] EFTA00000026_dataset_1_pagina_1.pdf
+2026-02-09 02:28:07,863 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000026_dataset_1_pagina_1.pdf
+2026-02-09 02:28:07,932 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000026_dataset_1_pagina_1.pdf (376.6 KB)
+2026-02-09 02:28:08,933 - __main__ - INFO - [run] - 📦 [27/100] EFTA00000027_dataset_1_pagina_1.pdf
+2026-02-09 02:28:08,933 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000027_dataset_1_pagina_1.pdf
+2026-02-09 02:28:09,001 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000027_dataset_1_pagina_1.pdf (356.0 KB)
+2026-02-09 02:28:10,002 - __main__ - INFO - [run] - 📦 [28/100] EFTA00000028_dataset_1_pagina_1.pdf
+2026-02-09 02:28:10,002 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000028_dataset_1_pagina_1.pdf
+2026-02-09 02:28:10,072 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000028_dataset_1_pagina_1.pdf (357.7 KB)
+2026-02-09 02:28:11,072 - __main__ - INFO - [run] - 📦 [29/100] EFTA00000029_dataset_1_pagina_1.pdf
+2026-02-09 02:28:11,073 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000029_dataset_1_pagina_1.pdf
+2026-02-09 02:28:11,142 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000029_dataset_1_pagina_1.pdf (368.9 KB)
+2026-02-09 02:28:12,142 - __main__ - INFO - [run] - 📦 [30/100] EFTA00000030_dataset_1_pagina_1.pdf
+2026-02-09 02:28:12,143 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000030_dataset_1_pagina_1.pdf
+2026-02-09 02:28:12,213 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000030_dataset_1_pagina_1.pdf (374.4 KB)
+2026-02-09 02:28:13,213 - __main__ - INFO - [run] - 📦 [31/100] EFTA00000031_dataset_1_pagina_1.pdf
+2026-02-09 02:28:13,214 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000031_dataset_1_pagina_1.pdf
+2026-02-09 02:28:13,285 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000031_dataset_1_pagina_1.pdf (473.4 KB)
+2026-02-09 02:28:14,286 - __main__ - INFO - [run] - 📦 [32/100] EFTA00000032_dataset_1_pagina_1.pdf
+2026-02-09 02:28:14,286 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000032_dataset_1_pagina_1.pdf
+2026-02-09 02:28:14,359 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000032_dataset_1_pagina_1.pdf (500.3 KB)
+2026-02-09 02:28:15,360 - __main__ - INFO - [run] - 📦 [33/100] EFTA00000033_dataset_1_pagina_1.pdf
+2026-02-09 02:28:15,361 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000033_dataset_1_pagina_1.pdf
+2026-02-09 02:28:15,438 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000033_dataset_1_pagina_1.pdf (500.9 KB)
+2026-02-09 02:28:16,439 - __main__ - INFO - [run] - 📦 [34/100] EFTA00000034_dataset_1_pagina_1.pdf
+2026-02-09 02:28:16,439 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000034_dataset_1_pagina_1.pdf
+2026-02-09 02:28:16,509 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000034_dataset_1_pagina_1.pdf (392.9 KB)
+2026-02-09 02:28:17,509 - __main__ - INFO - [run] - 📦 [35/100] EFTA00000035_dataset_1_pagina_1.pdf
+2026-02-09 02:28:17,510 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000035_dataset_1_pagina_1.pdf
+2026-02-09 02:28:17,582 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000035_dataset_1_pagina_1.pdf (470.1 KB)
+2026-02-09 02:28:18,583 - __main__ - INFO - [run] - 📦 [36/100] EFTA00000036_dataset_1_pagina_1.pdf
+2026-02-09 02:28:18,583 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000036_dataset_1_pagina_1.pdf
+2026-02-09 02:28:18,657 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000036_dataset_1_pagina_1.pdf (406.2 KB)
+2026-02-09 02:28:19,657 - __main__ - INFO - [run] - 📦 [37/100] EFTA00000037_dataset_1_pagina_1.pdf
+2026-02-09 02:28:19,657 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000037_dataset_1_pagina_1.pdf
+2026-02-09 02:28:19,728 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000037_dataset_1_pagina_1.pdf (447.6 KB)
+2026-02-09 02:28:20,728 - __main__ - INFO - [run] - 📦 [38/100] EFTA00000038_dataset_1_pagina_1.pdf
+2026-02-09 02:28:20,728 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000038_dataset_1_pagina_1.pdf
+2026-02-09 02:28:20,795 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000038_dataset_1_pagina_1.pdf (373.1 KB)
+2026-02-09 02:28:21,796 - __main__ - INFO - [run] - 📦 [39/100] EFTA00000039_dataset_1_pagina_1.pdf
+2026-02-09 02:28:21,796 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000039_dataset_1_pagina_1.pdf
+2026-02-09 02:28:21,867 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000039_dataset_1_pagina_1.pdf (423.6 KB)
+2026-02-09 02:28:22,868 - __main__ - INFO - [run] - 📦 [40/100] EFTA00000040_dataset_1_pagina_1.pdf
+2026-02-09 02:28:22,868 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000040_dataset_1_pagina_1.pdf
+2026-02-09 02:28:22,937 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000040_dataset_1_pagina_1.pdf (342.3 KB)
+2026-02-09 02:28:23,937 - __main__ - INFO - [run] - 📦 [41/100] EFTA00000041_dataset_1_pagina_1.pdf
+2026-02-09 02:28:23,937 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000041_dataset_1_pagina_1.pdf
+2026-02-09 02:28:24,005 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000041_dataset_1_pagina_1.pdf (383.2 KB)
+2026-02-09 02:28:25,005 - __main__ - INFO - [run] - 📦 [42/100] EFTA00000042_dataset_1_pagina_1.pdf
+2026-02-09 02:28:25,006 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000042_dataset_1_pagina_1.pdf
+2026-02-09 02:28:25,073 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000042_dataset_1_pagina_1.pdf (389.1 KB)
+2026-02-09 02:28:26,074 - __main__ - INFO - [run] - 📦 [43/100] EFTA00000043_dataset_1_pagina_1.pdf
+2026-02-09 02:28:26,074 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000043_dataset_1_pagina_1.pdf
+2026-02-09 02:28:26,146 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000043_dataset_1_pagina_1.pdf (391.9 KB)
+2026-02-09 02:28:27,147 - __main__ - INFO - [run] - 📦 [44/100] EFTA00000044_dataset_1_pagina_1.pdf
+2026-02-09 02:28:27,147 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000044_dataset_1_pagina_1.pdf
+2026-02-09 02:28:27,218 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000044_dataset_1_pagina_1.pdf (391.3 KB)
+2026-02-09 02:28:28,218 - __main__ - INFO - [run] - 📦 [45/100] EFTA00000045_dataset_1_pagina_1.pdf
+2026-02-09 02:28:28,218 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000045_dataset_1_pagina_1.pdf
+2026-02-09 02:28:28,289 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000045_dataset_1_pagina_1.pdf (387.1 KB)
+2026-02-09 02:28:29,290 - __main__ - INFO - [run] - 📦 [46/100] EFTA00000046_dataset_1_pagina_1.pdf
+2026-02-09 02:28:29,290 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000046_dataset_1_pagina_1.pdf
+2026-02-09 02:28:29,359 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000046_dataset_1_pagina_1.pdf (379.2 KB)
+2026-02-09 02:28:30,360 - __main__ - INFO - [run] - 📦 [47/100] EFTA00000047_dataset_1_pagina_1.pdf
+2026-02-09 02:28:30,361 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000047_dataset_1_pagina_1.pdf
+2026-02-09 02:28:30,435 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000047_dataset_1_pagina_1.pdf (470.1 KB)
+2026-02-09 02:28:31,435 - __main__ - INFO - [run] - 📦 [48/100] EFTA00000048_dataset_1_pagina_1.pdf
+2026-02-09 02:28:31,436 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000048_dataset_1_pagina_1.pdf
+2026-02-09 02:28:31,509 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000048_dataset_1_pagina_1.pdf (553.9 KB)
+2026-02-09 02:28:32,510 - __main__ - INFO - [run] - 📦 [49/100] EFTA00000049_dataset_1_pagina_1.pdf
+2026-02-09 02:28:32,510 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000049_dataset_1_pagina_1.pdf
+2026-02-09 02:28:32,584 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000049_dataset_1_pagina_1.pdf (455.5 KB)
+2026-02-09 02:28:33,585 - __main__ - INFO - [run] - 📦 [50/100] EFTA00000050_dataset_1_pagina_1.pdf
+2026-02-09 02:28:33,585 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000050_dataset_1_pagina_1.pdf
+2026-02-09 02:28:33,658 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000050_dataset_1_pagina_1.pdf (485.0 KB)
+2026-02-09 02:28:34,659 - __main__ - INFO - [run] - 📦 [51/100] EFTA00000101_dataset_1_pagina_2.pdf
+2026-02-09 02:28:34,659 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000101_dataset_1_pagina_2.pdf
+2026-02-09 02:28:34,725 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000101_dataset_1_pagina_2.pdf (327.3 KB)
+2026-02-09 02:28:35,726 - __main__ - INFO - [run] - 📦 [52/100] EFTA00000102_dataset_1_pagina_2.pdf
+2026-02-09 02:28:35,726 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000102_dataset_1_pagina_2.pdf
+2026-02-09 02:28:35,798 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000102_dataset_1_pagina_2.pdf (425.6 KB)
+2026-02-09 02:28:36,798 - __main__ - INFO - [run] - 📦 [53/100] EFTA00000103_dataset_1_pagina_2.pdf
+2026-02-09 02:28:36,799 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000103_dataset_1_pagina_2.pdf
+2026-02-09 02:28:36,870 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000103_dataset_1_pagina_2.pdf (424.5 KB)
+2026-02-09 02:28:37,870 - __main__ - INFO - [run] - 📦 [54/100] EFTA00000104_dataset_1_pagina_2.pdf
+2026-02-09 02:28:37,871 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000104_dataset_1_pagina_2.pdf
+2026-02-09 02:28:37,945 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000104_dataset_1_pagina_2.pdf (416.3 KB)
+2026-02-09 02:28:38,945 - __main__ - INFO - [run] - 📦 [55/100] EFTA00000105_dataset_1_pagina_2.pdf
+2026-02-09 02:28:38,945 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000105_dataset_1_pagina_2.pdf
+2026-02-09 02:28:39,016 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000105_dataset_1_pagina_2.pdf (401.0 KB)
+2026-02-09 02:28:40,016 - __main__ - INFO - [run] - 📦 [56/100] EFTA00000106_dataset_1_pagina_2.pdf
+2026-02-09 02:28:40,017 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000106_dataset_1_pagina_2.pdf
+2026-02-09 02:28:40,086 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000106_dataset_1_pagina_2.pdf (391.3 KB)
+2026-02-09 02:28:41,087 - __main__ - INFO - [run] - 📦 [57/100] EFTA00000107_dataset_1_pagina_2.pdf
+2026-02-09 02:28:41,087 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000107_dataset_1_pagina_2.pdf
+2026-02-09 02:28:41,159 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000107_dataset_1_pagina_2.pdf (383.2 KB)
+2026-02-09 02:28:42,159 - __main__ - INFO - [run] - 📦 [58/100] EFTA00000108_dataset_1_pagina_2.pdf
+2026-02-09 02:28:42,160 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000108_dataset_1_pagina_2.pdf
+2026-02-09 02:28:42,231 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000108_dataset_1_pagina_2.pdf (425.7 KB)
+2026-02-09 02:28:43,231 - __main__ - INFO - [run] - 📦 [59/100] EFTA00000109_dataset_1_pagina_2.pdf
+2026-02-09 02:28:43,232 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000109_dataset_1_pagina_2.pdf
+2026-02-09 02:28:43,300 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000109_dataset_1_pagina_2.pdf (386.1 KB)
+2026-02-09 02:28:44,301 - __main__ - INFO - [run] - 📦 [60/100] EFTA00000110_dataset_1_pagina_2.pdf
+2026-02-09 02:28:44,301 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000110_dataset_1_pagina_2.pdf
+2026-02-09 02:28:44,372 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000110_dataset_1_pagina_2.pdf (420.4 KB)
+2026-02-09 02:28:45,372 - __main__ - INFO - [run] - 📦 [61/100] EFTA00000111_dataset_1_pagina_2.pdf
+2026-02-09 02:28:45,373 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000111_dataset_1_pagina_2.pdf
+2026-02-09 02:28:45,449 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000111_dataset_1_pagina_2.pdf (459.1 KB)
+2026-02-09 02:28:46,449 - __main__ - INFO - [run] - 📦 [62/100] EFTA00000112_dataset_1_pagina_2.pdf
+2026-02-09 02:28:46,450 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000112_dataset_1_pagina_2.pdf
+2026-02-09 02:28:46,522 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000112_dataset_1_pagina_2.pdf (469.7 KB)
+2026-02-09 02:28:47,522 - __main__ - INFO - [run] - 📦 [63/100] EFTA00000113_dataset_1_pagina_2.pdf
+2026-02-09 02:28:47,522 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000113_dataset_1_pagina_2.pdf
+2026-02-09 02:28:47,592 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000113_dataset_1_pagina_2.pdf (414.4 KB)
+2026-02-09 02:28:48,593 - __main__ - INFO - [run] - 📦 [64/100] EFTA00000114_dataset_1_pagina_2.pdf
+2026-02-09 02:28:48,593 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000114_dataset_1_pagina_2.pdf
+2026-02-09 02:28:48,663 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000114_dataset_1_pagina_2.pdf (401.9 KB)
+2026-02-09 02:28:49,663 - __main__ - INFO - [run] - 📦 [65/100] EFTA00000115_dataset_1_pagina_2.pdf
+2026-02-09 02:28:49,664 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000115_dataset_1_pagina_2.pdf
+2026-02-09 02:28:49,733 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000115_dataset_1_pagina_2.pdf (427.8 KB)
+2026-02-09 02:28:50,733 - __main__ - INFO - [run] - 📦 [66/100] EFTA00000116_dataset_1_pagina_2.pdf
+2026-02-09 02:28:50,734 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000116_dataset_1_pagina_2.pdf
+2026-02-09 02:28:50,805 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000116_dataset_1_pagina_2.pdf (417.6 KB)
+2026-02-09 02:28:51,806 - __main__ - INFO - [run] - 📦 [67/100] EFTA00000117_dataset_1_pagina_2.pdf
+2026-02-09 02:28:51,806 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000117_dataset_1_pagina_2.pdf
+2026-02-09 02:28:51,881 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000117_dataset_1_pagina_2.pdf (430.3 KB)
+2026-02-09 02:28:52,882 - __main__ - INFO - [run] - 📦 [68/100] EFTA00000118_dataset_1_pagina_2.pdf
+2026-02-09 02:28:52,883 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000118_dataset_1_pagina_2.pdf
+2026-02-09 02:28:52,958 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000118_dataset_1_pagina_2.pdf (445.6 KB)
+2026-02-09 02:28:53,958 - __main__ - INFO - [run] - 📦 [69/100] EFTA00000119_dataset_1_pagina_2.pdf
+2026-02-09 02:28:53,959 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000119_dataset_1_pagina_2.pdf
+2026-02-09 02:28:54,032 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000119_dataset_1_pagina_2.pdf (483.0 KB)
+2026-02-09 02:28:55,032 - __main__ - INFO - [run] - 📦 [70/100] EFTA00000120_dataset_1_pagina_2.pdf
+2026-02-09 02:28:55,033 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000120_dataset_1_pagina_2.pdf
+2026-02-09 02:28:55,113 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000120_dataset_1_pagina_2.pdf (469.5 KB)
+2026-02-09 02:28:56,113 - __main__ - INFO - [run] - 📦 [71/100] EFTA00000121_dataset_1_pagina_2.pdf
+2026-02-09 02:28:56,113 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000121_dataset_1_pagina_2.pdf
+2026-02-09 02:28:56,184 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000121_dataset_1_pagina_2.pdf (428.5 KB)
+2026-02-09 02:28:57,185 - __main__ - INFO - [run] - 📦 [72/100] EFTA00000122_dataset_1_pagina_2.pdf
+2026-02-09 02:28:57,185 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000122_dataset_1_pagina_2.pdf
+2026-02-09 02:28:57,261 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000122_dataset_1_pagina_2.pdf (455.3 KB)
+2026-02-09 02:28:58,262 - __main__ - INFO - [run] - 📦 [73/100] EFTA00000123_dataset_1_pagina_2.pdf
+2026-02-09 02:28:58,262 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000123_dataset_1_pagina_2.pdf
+2026-02-09 02:28:58,335 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000123_dataset_1_pagina_2.pdf (394.1 KB)
+2026-02-09 02:28:59,336 - __main__ - INFO - [run] - 📦 [74/100] EFTA00000124_dataset_1_pagina_2.pdf
+2026-02-09 02:28:59,337 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000124_dataset_1_pagina_2.pdf
+2026-02-09 02:28:59,409 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000124_dataset_1_pagina_2.pdf (441.3 KB)
+2026-02-09 02:29:00,409 - __main__ - INFO - [run] - 📦 [75/100] EFTA00000125_dataset_1_pagina_2.pdf
+2026-02-09 02:29:00,410 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000125_dataset_1_pagina_2.pdf
+2026-02-09 02:29:00,482 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000125_dataset_1_pagina_2.pdf (456.8 KB)
+2026-02-09 02:29:01,482 - __main__ - INFO - [run] - 📦 [76/100] EFTA00000126_dataset_1_pagina_2.pdf
+2026-02-09 02:29:01,483 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000126_dataset_1_pagina_2.pdf
+2026-02-09 02:29:01,555 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000126_dataset_1_pagina_2.pdf (457.1 KB)
+2026-02-09 02:29:02,555 - __main__ - INFO - [run] - 📦 [77/100] EFTA00000127_dataset_1_pagina_2.pdf
+2026-02-09 02:29:02,556 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000127_dataset_1_pagina_2.pdf
+2026-02-09 02:29:02,626 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000127_dataset_1_pagina_2.pdf (418.9 KB)
+2026-02-09 02:29:03,626 - __main__ - INFO - [run] - 📦 [78/100] EFTA00000128_dataset_1_pagina_2.pdf
+2026-02-09 02:29:03,627 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000128_dataset_1_pagina_2.pdf
+2026-02-09 02:29:03,697 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000128_dataset_1_pagina_2.pdf (436.1 KB)
+2026-02-09 02:29:04,698 - __main__ - INFO - [run] - 📦 [79/100] EFTA00000129_dataset_1_pagina_2.pdf
+2026-02-09 02:29:04,698 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000129_dataset_1_pagina_2.pdf
+2026-02-09 02:29:04,770 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000129_dataset_1_pagina_2.pdf (500.9 KB)
+2026-02-09 02:29:05,771 - __main__ - INFO - [run] - 📦 [80/100] EFTA00000130_dataset_1_pagina_2.pdf
+2026-02-09 02:29:05,771 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000130_dataset_1_pagina_2.pdf
+2026-02-09 02:29:05,841 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000130_dataset_1_pagina_2.pdf (448.4 KB)
+2026-02-09 02:29:06,842 - __main__ - INFO - [run] - 📦 [81/100] EFTA00000131_dataset_1_pagina_2.pdf
+2026-02-09 02:29:06,843 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000131_dataset_1_pagina_2.pdf
+2026-02-09 02:29:06,912 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000131_dataset_1_pagina_2.pdf (450.0 KB)
+2026-02-09 02:29:07,913 - __main__ - INFO - [run] - 📦 [82/100] EFTA00000132_dataset_1_pagina_2.pdf
+2026-02-09 02:29:07,913 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000132_dataset_1_pagina_2.pdf
+2026-02-09 02:29:07,983 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000132_dataset_1_pagina_2.pdf (400.7 KB)
+2026-02-09 02:29:08,983 - __main__ - INFO - [run] - 📦 [83/100] EFTA00000133_dataset_1_pagina_2.pdf
+2026-02-09 02:29:08,984 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000133_dataset_1_pagina_2.pdf
+2026-02-09 02:29:09,055 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000133_dataset_1_pagina_2.pdf (446.9 KB)
+2026-02-09 02:29:10,056 - __main__ - INFO - [run] - 📦 [84/100] EFTA00000134_dataset_1_pagina_2.pdf
+2026-02-09 02:29:10,056 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000134_dataset_1_pagina_2.pdf
+2026-02-09 02:29:10,128 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000134_dataset_1_pagina_2.pdf (511.5 KB)
+2026-02-09 02:29:11,128 - __main__ - INFO - [run] - 📦 [85/100] EFTA00000135_dataset_1_pagina_2.pdf
+2026-02-09 02:29:11,128 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000135_dataset_1_pagina_2.pdf
+2026-02-09 02:29:11,200 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000135_dataset_1_pagina_2.pdf (497.5 KB)
+2026-02-09 02:29:12,200 - __main__ - INFO - [run] - 📦 [86/100] EFTA00000136_dataset_1_pagina_2.pdf
+2026-02-09 02:29:12,201 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000136_dataset_1_pagina_2.pdf
+2026-02-09 02:29:12,273 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000136_dataset_1_pagina_2.pdf (504.1 KB)
+2026-02-09 02:29:13,274 - __main__ - INFO - [run] - 📦 [87/100] EFTA00000137_dataset_1_pagina_2.pdf
+2026-02-09 02:29:13,274 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000137_dataset_1_pagina_2.pdf
+2026-02-09 02:29:13,346 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000137_dataset_1_pagina_2.pdf (392.4 KB)
+2026-02-09 02:29:14,347 - __main__ - INFO - [run] - 📦 [88/100] EFTA00000138_dataset_1_pagina_2.pdf
+2026-02-09 02:29:14,347 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000138_dataset_1_pagina_2.pdf
+2026-02-09 02:29:14,421 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000138_dataset_1_pagina_2.pdf (420.1 KB)
+2026-02-09 02:29:15,422 - __main__ - INFO - [run] - 📦 [89/100] EFTA00000139_dataset_1_pagina_2.pdf
+2026-02-09 02:29:15,423 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000139_dataset_1_pagina_2.pdf
+2026-02-09 02:29:15,498 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000139_dataset_1_pagina_2.pdf (570.0 KB)
+2026-02-09 02:29:16,499 - __main__ - INFO - [run] - 📦 [90/100] EFTA00000140_dataset_1_pagina_2.pdf
+2026-02-09 02:29:16,499 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000140_dataset_1_pagina_2.pdf
+2026-02-09 02:29:16,570 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000140_dataset_1_pagina_2.pdf (493.3 KB)
+2026-02-09 02:29:17,571 - __main__ - INFO - [run] - 📦 [91/100] EFTA00000141_dataset_1_pagina_2.pdf
+2026-02-09 02:29:17,571 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000141_dataset_1_pagina_2.pdf
+2026-02-09 02:29:17,643 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000141_dataset_1_pagina_2.pdf (432.0 KB)
+2026-02-09 02:29:18,643 - __main__ - INFO - [run] - 📦 [92/100] EFTA00000142_dataset_1_pagina_2.pdf
+2026-02-09 02:29:18,643 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000142_dataset_1_pagina_2.pdf
+2026-02-09 02:29:18,713 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000142_dataset_1_pagina_2.pdf (412.2 KB)
+2026-02-09 02:29:19,714 - __main__ - INFO - [run] - 📦 [93/100] EFTA00000143_dataset_1_pagina_2.pdf
+2026-02-09 02:29:19,715 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000143_dataset_1_pagina_2.pdf
+2026-02-09 02:29:19,789 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000143_dataset_1_pagina_2.pdf (458.8 KB)
+2026-02-09 02:29:20,790 - __main__ - INFO - [run] - 📦 [94/100] EFTA00000144_dataset_1_pagina_2.pdf
+2026-02-09 02:29:20,790 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000144_dataset_1_pagina_2.pdf
+2026-02-09 02:29:20,862 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000144_dataset_1_pagina_2.pdf (424.2 KB)
+2026-02-09 02:29:21,862 - __main__ - INFO - [run] - 📦 [95/100] EFTA00000145_dataset_1_pagina_2.pdf
+2026-02-09 02:29:21,863 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000145_dataset_1_pagina_2.pdf
+2026-02-09 02:29:21,937 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000145_dataset_1_pagina_2.pdf (493.7 KB)
+2026-02-09 02:29:22,938 - __main__ - INFO - [run] - 📦 [96/100] EFTA00000146_dataset_1_pagina_2.pdf
+2026-02-09 02:29:22,938 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000146_dataset_1_pagina_2.pdf
+2026-02-09 02:29:23,011 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000146_dataset_1_pagina_2.pdf (465.6 KB)
+2026-02-09 02:29:24,012 - __main__ - INFO - [run] - 📦 [97/100] EFTA00000147_dataset_1_pagina_2.pdf
+2026-02-09 02:29:24,013 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000147_dataset_1_pagina_2.pdf
+2026-02-09 02:29:24,086 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000147_dataset_1_pagina_2.pdf (444.4 KB)
+2026-02-09 02:29:25,087 - __main__ - INFO - [run] - 📦 [98/100] EFTA00000148_dataset_1_pagina_2.pdf
+2026-02-09 02:29:25,087 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000148_dataset_1_pagina_2.pdf
+2026-02-09 02:29:25,160 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000148_dataset_1_pagina_2.pdf (527.3 KB)
+2026-02-09 02:29:26,161 - __main__ - INFO - [run] - 📦 [99/100] EFTA00000149_dataset_1_pagina_2.pdf
+2026-02-09 02:29:26,162 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000149_dataset_1_pagina_2.pdf
+2026-02-09 02:29:26,231 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000149_dataset_1_pagina_2.pdf (504.1 KB)
+2026-02-09 02:29:27,232 - __main__ - INFO - [run] - 📦 [100/100] EFTA00000150_dataset_1_pagina_2.pdf
+2026-02-09 02:29:27,232 - __main__ - INFO - [download_file] - ⬇️  Descargando: EFTA00000150_dataset_1_pagina_2.pdf
+2026-02-09 02:29:27,305 - __main__ - INFO - [download_file] - ✅ Descargado: EFTA00000150_dataset_1_pagina_2.pdf (526.7 KB)
+2026-02-09 02:29:27,307 - __main__ - INFO - [_save_metadata] - 📋 Metadatos guardados: session_1770604167.json

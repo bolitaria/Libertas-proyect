@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-02-09T02:34:30.552567",
+  "operation_id": "11973435",
+  "results": {
+    "success": 100,
+    "failed": 0,
+    "skipped": 0,
+    "invalid": 0,
+    "total_size": 45167546,
+    "start": 1770604364.9385283,
+    "datasets_created": [
+      1
+    ],
+    "downloads_by_dataset": {
+      "1": {
+        "success": 100,
+        "failed": 0,
+        "skipped": 0
+      }
+    },
+    "end": 1770604470.5525448,
+    "duration": 105.61401653289795
+  },
+  "total_downloaded": 100
+}
